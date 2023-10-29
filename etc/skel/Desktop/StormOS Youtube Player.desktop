@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=StormOS Youtube Player
+Comment=
+Exec=/usr/local/bin/stubet
+Icon=youtube
+Path=
+Terminal=false
+StartupNotify=false

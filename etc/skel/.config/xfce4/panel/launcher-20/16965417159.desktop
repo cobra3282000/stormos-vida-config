@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=StormOS Music Player
+Comment=
+Exec=/usr/local/bin/smp
+Icon=musique
+Path=
+Terminal=false
+StartupNotify=false
+X-XFCE-Source=file:///usr/share/applications/StormOS%20Music%20Player.desktop

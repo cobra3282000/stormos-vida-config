@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=StormOS Post Install Fixes
+Comment=
+Exec=/usr/local/bin/sfix
+Icon=update-manager
+Path=
+Terminal=true
+StartupNotify=false
