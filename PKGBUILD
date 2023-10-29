@@ -19,6 +19,5 @@ package() {
 	rm ${srcdir}/${pkgname}/git_clean.sh
 	rm ${srcdir}/${pkgname}/git_push.sh
 	rm ${srcdir}/${pkgname}/git_setup.sh
-	rm ${srcdir}/${pkgname}/README.md
 	rm ${srcdir}/${pkgname}/PKGBUILD
 }
