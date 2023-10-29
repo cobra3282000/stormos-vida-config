@@ -28,6 +28,6 @@ read input
 _msg "Committing to the local repository."
 git commit -m "$input"
 _msg "Pushing local files to Github."
-git push -u origin master
+git push -u origin main
 
 _msg "Git push completed...all done!"
