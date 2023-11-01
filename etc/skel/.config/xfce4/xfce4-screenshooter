@@ -8,4 +8,6 @@ delay=0
 region=2
 show_mouse=1
 show_border=1
+custom_action_command=none
+show_in_folder=false
 
