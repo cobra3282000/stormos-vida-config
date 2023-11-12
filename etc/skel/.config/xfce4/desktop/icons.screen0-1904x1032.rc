@@ -1,11 +1,55 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/test/Desktop/StormOS GitHub Manager.desktop]
+row=0
+col=0
+
+[/home/test/Desktop/StormOS Browser.desktop]
+row=3
+col=0
+
+[/home/test/Desktop/StormOS Bookmarks Manager.desktop]
+row=2
+col=0
+
+[/home/test/Desktop/StormOS Studying Timer.desktop]
+row=3
+col=1
+
+[/home/test/Desktop/Download Manager.desktop]
+row=2
+col=1
+
+[/home/test/Desktop/StormOS Translator.desktop]
+row=1
+col=1
+
+[/home/test/Desktop/wgetm.desktop]
+row=0
+col=2
+
+[/home/test/Desktop/StormOS Calendar.desktop]
+row=4
+col=0
+
+[/home/test/Desktop/StormOS Youtube Player.desktop]
+row=0
+col=1
+
+[/home/test/Desktop/StormOS_Expenses_Calculator.desktop]
+row=4
+col=1
+
+[/home/test/Desktop/StormOS Optimus Switcher.desktop]
+row=5
+col=0
+
 [Trash]
 row=8
 col=17
 
-[/home/ben]
-row=0
+[/home/test]
+row=1
 col=0
 
