@@ -23,8 +23,8 @@
         <value type="int" value="21"/>
         <value type="int" value="20"/>
         <value type="int" value="24"/>
-        <value type="int" value="15"/>
         <value type="int" value="22"/>
+        <value type="int" value="15"/>
         <value type="int" value="3"/>
         <value type="int" value="2"/>
         <value type="int" value="5"/>
@@ -142,7 +142,7 @@
       </property>
       <property name="msl" type="int" value="143"/>
       <property name="timezone" type="string" value="America/Kentucky/Louisville"/>
-      <property name="offset" type="string" value="-04:00"/>
+      <property name="offset" type="string" value="-05:00"/>
       <property name="cache-max-age" type="int" value="172800"/>
       <property name="power-saving" type="bool" value="true"/>
       <property name="units" type="empty">
@@ -199,16 +199,16 @@
         <value type="string" value="xfce4-terminal-emulator.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="kvantummanager.desktop"/>
+        <value type="string" value="kdesystemsettings.desktop"/>
+        <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="WoeUSB-ng.desktop"/>
-        <value type="string" value="mintstick-format.desktop"/>
-        <value type="string" value="wine-Programs-Infinity Launcher.desktop"/>
-        <value type="string" value="discord.desktop"/>
-        <value type="string" value="steam-native.desktop"/>
-        <value type="string" value="STAR WARS The Old Republic.desktop"/>
-        <value type="string" value="rustdesk.desktop"/>
+        <value type="string" value="xfce4-terminal.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="xfce-backdrop-settings.desktop"/>
         <value type="string" value="xfce4-terminal-emulator.desktop"/>
-        <value type="string" value="io.github.edo9300.EDOPro.desktop"/>
+        <value type="string" value="mintstick-format.desktop"/>
+        <value type="string" value="discord.desktop"/>
       </property>
     </property>
     <property name="plugin-16" type="string" value="separator">
@@ -248,11 +248,6 @@
     <property name="plugin-21" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-15" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16973291271.desktop"/>
-      </property>
-    </property>
     <property name="plugin-22" type="string" value="separator">
       <property name="expand" type="bool" value="false"/>
       <property name="style" type="uint" value="0"/>
@@ -260,6 +255,11 @@
     <property name="plugin-24" type="string" value="separator">
       <property name="expand" type="bool" value="false"/>
       <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-15" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16997605701.desktop"/>
+      </property>
     </property>
   </property>
 </channel>

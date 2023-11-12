@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=StormOS Optimus Switcher
+Comment=
+Exec=/usr/local/bin/optimus
+Icon=renamed-nvidia
+Path=
+Terminal=false
+StartupNotify=false
+X-XFCE-Source=file:///home/test/Desktop/StormOS%20Optimus%20Switcher.desktop

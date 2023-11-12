@@ -108,7 +108,6 @@ ForegroundPositive=80,250,123
 ForegroundVisited=157,157,153
 
 [General]
-ColorScheme=BreezeDracula
 XftHintStyle=hintslight
 XftSubPixel=rgb
 fixed=Hack,12,-1,5,50,0,0,0,0,0
@@ -117,11 +116,9 @@ menuFont=Hack,12,-1,5,50,0,0,0,0,0
 smallestReadableFont=Hack,10,-1,5,50,0,0,0,0,0
 toolBarFont=Hack,12,-1,5,50,0,0,0,0,0
 
-[Icons]
-Theme=Surfn-Arch-Blue
-
 [KDE]
-LookAndFeelPackage=Nordic-darker
+LookAndFeelPackage=Dracula
+SingleClick=false
 widgetStyle=kvantum
 
 [WM]
