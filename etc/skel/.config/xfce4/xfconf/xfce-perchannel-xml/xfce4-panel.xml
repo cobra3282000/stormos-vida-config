@@ -199,6 +199,8 @@
         <value type="string" value="xfce4-terminal-emulator.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="ccsm.desktop"/>
+        <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
         <value type="string" value="plank.desktop"/>
         <value type="string" value="kdesystemsettings.desktop"/>
@@ -207,8 +209,6 @@
         <value type="string" value="org.xfce.mousepad.desktop"/>
         <value type="string" value="vlc.desktop"/>
         <value type="string" value="wgetm.desktop"/>
-        <value type="string" value="kvantummanager.desktop"/>
-        <value type="string" value="xfce-settings-manager.desktop"/>
       </property>
     </property>
     <property name="plugin-16" type="string" value="separator">

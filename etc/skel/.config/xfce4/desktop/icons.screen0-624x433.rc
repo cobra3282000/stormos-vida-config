@@ -26,28 +26,28 @@ row=1
 col=1
 
 [/home/test/Desktop/wgetm.desktop]
-row=5
-col=1
+row=3
+col=2
 
 [/home/test/Desktop/StormOS Calendar.desktop]
-row=4
-col=0
+row=1
+col=2
 
 [/home/test/Desktop/StormOS Youtube Player.desktop]
 row=0
 col=1
 
 [/home/test/Desktop/StormOS_Expenses_Calculator.desktop]
-row=4
-col=1
+row=2
+col=2
 
 [/home/test/Desktop/StormOS Optimus Switcher.desktop]
-row=5
-col=0
+row=0
+col=3
 
 [Trash]
-row=8
-col=17
+row=0
+col=2
 
 [/home/test]
 row=1

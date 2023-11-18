@@ -12,7 +12,7 @@
       <property name="IsFailsafe" type="empty"/>
       <property name="Count" type="empty"/>
       <property name="Client0_Command" type="array">
-        <value type="string" value="xfwm4"/>
+        <value type="string" value="compiz"/>
       </property>
       <property name="Client0_Priority" type="empty"/>
       <property name="Client0_PerScreen" type="empty"/>

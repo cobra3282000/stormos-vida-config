@@ -26,8 +26,8 @@ row=1
 col=1
 
 [/home/test/Desktop/wgetm.desktop]
-row=5
-col=1
+row=0
+col=2
 
 [/home/test/Desktop/StormOS Calendar.desktop]
 row=4
@@ -46,8 +46,8 @@ row=5
 col=0
 
 [Trash]
-row=8
-col=17
+row=6
+col=0
 
 [/home/test]
 row=1
