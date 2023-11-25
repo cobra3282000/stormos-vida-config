@@ -2,7 +2,7 @@
 pkgname=stormos-xfce-config
 _destname1="/etc"
 pkgver=23.11
-pkgrel=2
+pkgrel=3
 pkgdesc="Desktop Config for StormOS XFCE"
 arch=('any')
 url="https://github.com/bfitzgit23"
