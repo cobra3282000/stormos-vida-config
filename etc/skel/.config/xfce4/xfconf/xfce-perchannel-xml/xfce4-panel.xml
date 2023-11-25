@@ -20,10 +20,8 @@
         <value type="int" value="18"/>
         <value type="int" value="11"/>
         <value type="int" value="19"/>
-        <value type="int" value="21"/>
         <value type="int" value="20"/>
         <value type="int" value="24"/>
-        <value type="int" value="22"/>
         <value type="int" value="15"/>
         <value type="int" value="3"/>
         <value type="int" value="2"/>
@@ -246,13 +244,6 @@
       </property>
       <property name="move-first" type="bool" value="true"/>
       <property name="arrow-position" type="uint" value="0"/>
-    </property>
-    <property name="plugin-21" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-22" type="string" value="separator">
-      <property name="expand" type="bool" value="false"/>
-      <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-24" type="string" value="separator">
       <property name="expand" type="bool" value="false"/>
