@@ -55,6 +55,8 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="blueman"/>
+        <value type="string" value="configuring wi-fi network connection “spirit-of-76”…"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (45%)"/>
         <value type="string" value="steam"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (54%)"/>
@@ -133,6 +135,7 @@
       <property name="show-meridiem" type="bool" value="true"/>
       <property name="digital-time-format" type="string" value="%a %h %d %l:%M %p"/>
       <property name="digital-layout" type="uint" value="3"/>
+      <property name="digital-time-font" type="string" value="JetBrainsMono Nerd Font Light 11"/>
     </property>
     <property name="plugin-4" type="string" value="weather">
       <property name="location" type="empty">
@@ -199,11 +202,10 @@
         <value type="string" value="xfce4-terminal-emulator.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="ccsm.desktop"/>
-        <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
+        <value type="string" value="kdesystemsettings.desktop"/>
+        <value type="string" value="kvantummanager.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
         <value type="string" value="plank.desktop"/>
-        <value type="string" value="kdesystemsettings.desktop"/>
         <value type="string" value="qt5ct.desktop"/>
         <value type="string" value="chromium.desktop"/>
         <value type="string" value="org.xfce.mousepad.desktop"/>

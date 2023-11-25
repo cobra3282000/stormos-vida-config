@@ -5,7 +5,7 @@
   <property name="background-darkness" type="double" value="0.80000000000000004"/>
   <property name="color-foreground" type="string" value="#0000aaaaaaaa"/>
   <property name="color-palette" type="string" value="rgb(0,0,0);rgb(170,0,0);rgb(0,170,0);rgb(170,85,0);rgb(0,0,170);rgb(170,0,170);rgb(0,170,170);rgb(170,170,170);rgb(85,85,85);rgb(255,85,85);rgb(85,255,85);rgb(255,255,85);rgb(85,85,255);rgb(255,85,255);rgb(85,255,255);rgb(255,255,255)"/>
-  <property name="font-name" type="string" value="JetBrainsMono Nerd Font 14"/>
+  <property name="font-name" type="string" value="JetBrains Mono 18"/>
   <property name="misc-always-show-tabs" type="bool" value="false"/>
   <property name="misc-bell" type="bool" value="false"/>
   <property name="misc-bell-urgent" type="bool" value="false"/>
