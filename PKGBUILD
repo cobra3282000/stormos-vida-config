@@ -1,8 +1,8 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=stormos-xfce-config
 _destname1="/etc"
-pkgver=23.11
-pkgrel=3
+pkgver=23.12
+pkgrel=4
 pkgdesc="Desktop Config for StormOS XFCE"
 arch=('any')
 url="https://github.com/bfitzgit23"
