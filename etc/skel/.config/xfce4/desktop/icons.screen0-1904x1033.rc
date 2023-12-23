@@ -1,75 +1,55 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/liveuser/Desktop/wgetm.desktop]
-row=1
-col=1
-
-[/home/liveuser/Desktop/StormOS Optimus Switcher.desktop]
-row=4
-col=0
-
-[/home/liveuser/Desktop/calamares.desktop]
-row=2
-col=1
-
-[/home/liveuser/Desktop/install-stormos-xfce]
-row=5
-col=1
-
-[/home/liveuser/Desktop/StormOS Bookmarks Manager.desktop]
-row=8
-col=0
-
-[/home/liveuser/Desktop/stormos-xfce-config]
-row=7
-col=1
-
-[/home/liveuser/Desktop/StormOS Youtube Player.desktop]
-row=1
-col=0
-
-[/home/liveuser/Desktop/StormOS Studying Timer.desktop]
-row=3
-col=0
-
-[/home/liveuser/Desktop/StormOS Browser.desktop]
-row=7
-col=0
-
-[/home/liveuser/Desktop/Download Manager.desktop]
+[/home/test/Desktop/StormOS GitHub Manager.desktop]
 row=0
 col=1
 
-[/home/liveuser/Desktop/StormOS Calendar.desktop]
-row=6
-col=0
-
-[/home/liveuser/Desktop/StormOS_Expenses_Calculator.desktop]
-row=3
-col=1
-
-[/home/liveuser/Desktop/stormos]
-row=6
-col=1
-
-[/home/liveuser/Desktop/StormOS Translator.desktop]
-row=2
-col=0
-
-[/home/liveuser/Desktop/StormOS GitHub Manager.desktop]
+[/home/test/Desktop/Download Manager.desktop]
 row=5
 col=0
 
-[/home/liveuser/Desktop/Install-StormOS-CLI.desktop]
+[/home/test/Desktop/StormOS Bookmarks Manager.desktop]
+row=3
+col=0
+
+[/home/test/Desktop/StormOS Studying Timer.desktop]
+row=6
+col=0
+
+[/home/test/Desktop/StormOS_Expenses_Calculator.desktop]
+row=2
+col=0
+
+[/home/test/Desktop/StormOS Translator.desktop]
 row=4
+col=0
+
+[/home/test/Desktop/wgetm.desktop]
+row=8
+col=0
+
+[/home/test/Desktop/StormOS Calendar.desktop]
+row=7
+col=0
+
+[/home/test/Desktop/StormOS Youtube Player.desktop]
+row=1
+col=0
+
+[/home/test/Desktop/StormOS Browser.desktop]
+row=2
+col=1
+
+[/home/test/Desktop/StormOS Optimus Switcher.desktop]
+row=1
 col=1
 
 [Trash]
 row=8
 col=17
 
-[/home/liveuser]
+[/home/test]
 row=0
 col=0
 

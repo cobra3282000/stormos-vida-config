@@ -200,6 +200,7 @@
         <value type="string" value="xfce4-terminal-emulator.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="xfce-display-settings.desktop"/>
         <value type="string" value="kdesystemsettings.desktop"/>
         <value type="string" value="kvantummanager.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
