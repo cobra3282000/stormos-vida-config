@@ -4,6 +4,7 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
+    <value type="int" value="2"/>
     <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=6;x=960;y=16"/>
@@ -35,6 +36,18 @@
         <value type="int" value="12"/>
       </property>
     </property>
+    <property name="panel-2" type="empty">
+      <property name="position" type="string" value="p=12;x=876;y=1055"/>
+      <property name="size" type="uint" value="48"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="length" type="double" value="1"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="21"/>
+      </property>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
+    </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
@@ -53,6 +66,7 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (65%)"/>
         <value type="string" value="blueman"/>
         <value type="string" value="configuring wi-fi network connection “spirit-of-76”…"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (45%)"/>
@@ -200,16 +214,16 @@
         <value type="string" value="xfce4-terminal-emulator.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="org.xfce.mousepad.desktop"/>
+        <value type="string" value="system-tool.desktop"/>
+        <value type="string" value="gparted.desktop"/>
+        <value type="string" value="org.manjaro.pamac.manager.desktop"/>
+        <value type="string" value="panel-preferences.desktop"/>
         <value type="string" value="xfce-display-settings.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
         <value type="string" value="kdesystemsettings.desktop"/>
         <value type="string" value="kvantummanager.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="plank.desktop"/>
-        <value type="string" value="qt5ct.desktop"/>
-        <value type="string" value="chromium.desktop"/>
-        <value type="string" value="org.xfce.mousepad.desktop"/>
-        <value type="string" value="vlc.desktop"/>
-        <value type="string" value="wgetm.desktop"/>
       </property>
     </property>
     <property name="plugin-16" type="string" value="separator">
@@ -255,5 +269,6 @@
         <value type="string" value="16997605701.desktop"/>
       </property>
     </property>
+    <property name="plugin-21" type="string" value="docklike"/>
   </property>
 </channel>
