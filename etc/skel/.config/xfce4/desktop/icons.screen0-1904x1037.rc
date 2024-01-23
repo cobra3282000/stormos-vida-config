@@ -1,27 +1,55 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[01D73FBCA0E01300]
-row=2
+[/home/ben/Desktop/SWGEmu]
+row=8
 col=0
 
-[9C7EF4657EF43A1A]
-row=1
+[/home/ben/Desktop/SWG]
+row=0
+col=1
+
+[/home/ben/Desktop/steam.desktop]
+row=3
+col=1
+
+[/home/ben/Desktop/SWGLegendsLauncher]
+row=6
 col=0
+
+[/home/ben/Desktop/SWGInfinity]
+row=7
+col=0
+
+[/home/ben/Desktop/Official Harmy’s Star Wars Editions MKV]
+row=1
+col=1
+
+[/home/ben/Desktop/SWGSource Client v3.1]
+row=4
+col=0
+
+[/home/ben/Desktop/SWGR1]
+row=5
+col=0
+
+[/home/ben/Desktop/stormos-build-files]
+row=2
+col=1
 
 [4E21-0000]
 row=0
 col=0
 
 [Trash]
-row=3
+row=1
 col=0
 
 [/]
-row=4
+row=2
 col=0
 
 [/home/ben]
-row=5
+row=3
 col=0
 
