@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Download Manager
+Name=StormOS Download Manager
 Comment=StormOS Download Manager
 Exec=/usr/local/bin/sdm
 Icon=downloader-arrow
