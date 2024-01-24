@@ -68,11 +68,14 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="networkmanager applet"/>
         <value type="string" value="blueberry-tray.py"/>
         <value type="string" value="pamac-tray"/>
         <value type="string" value="user authentication required for wi-fi network “spirit-of-76”…"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="flameshot"/>
+        <value type="string" value="steam"/>
         <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="Yakuake"/>
         <value type="string" value="variety"/>
@@ -81,6 +84,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
+      <property name="known-players" type="string" value="Chromium;chromium"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -135,10 +139,16 @@
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="button-icon" type="string" value="/usr/share/pixmaps/stormos/menubutton.png"/>
       <property name="recent" type="array">
-        <value type="string" value="xfce-ui-settings.desktop"/>
-        <value type="string" value="org.manjaro.pamac.manager.desktop"/>
+        <value type="string" value="vesktop.desktop"/>
+        <value type="string" value="virtualbox.desktop"/>
+        <value type="string" value="org.kde.plasma-systemmonitor.desktop"/>
+        <value type="string" value="ccsm.desktop"/>
+        <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
         <value type="string" value="gparted.desktop"/>
-        <value type="string" value="chromium.desktop"/>
+        <value type="string" value="org.flameshot.Flameshot.desktop"/>
+        <value type="string" value="org.xfce.mousepad.desktop"/>
+        <value type="string" value="xfce4-terminal.desktop"/>
+        <value type="string" value="STAR WARS The Old Republic.desktop"/>
       </property>
     </property>
     <property name="plugin-11" type="string" value="docklike"/>

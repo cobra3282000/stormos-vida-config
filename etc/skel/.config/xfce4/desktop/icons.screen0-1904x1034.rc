@@ -1,15 +1,131 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/stormdev/Desktop/StormOS-2020.07.26-x86_64.iso]
+[/home/ben/Desktop/StormOS Translator.desktop]
+row=0
+col=3
+
+[/home/ben/Desktop/games]
+row=7
+col=0
+
+[/home/ben/Desktop/r1 info.txt]
+row=3
+col=3
+
+[/home/ben/Desktop/jedi notes r1.txt]
+row=6
+col=1
+
+[/home/ben/Desktop/StormOS Studying Timer.desktop]
+row=8
+col=2
+
+[/home/ben/Desktop/StormOS Youtube Player.desktop]
+row=1
+col=3
+
+[/home/ben/Desktop/EFI-Mac]
+row=5
+col=0
+
+[/home/ben/Desktop/stormos-build-files]
+row=0
+col=1
+
+[/home/ben/Desktop/StormOS Calendar.desktop]
+row=3
+col=2
+
+[/home/ben/Desktop/StormOS Bookmarks Manager.desktop]
+row=1
+col=2
+
+[/home/ben/Desktop/JediTemplatesPlaydoh.png]
+row=7
+col=1
+
+[/home/ben/Desktop/StormOS Download Manager.desktop]
+row=4
+col=2
+
+[/home/ben/Desktop/wgetm.desktop]
+row=2
+col=3
+
+[/home/ben/Desktop/SWGR1]
+row=4
+col=1
+
+[/home/ben/Desktop/StormOS Browser.desktop]
+row=2
+col=2
+
+[/home/ben/Desktop/StormOS_Expenses_Calculator.desktop]
+row=5
+col=2
+
+[/home/ben/Desktop/StormOS GitHub Manager.desktop]
+row=6
+col=2
+
+[/home/ben/Desktop/lfs-backup-main.tar.gz]
+row=8
+col=1
+
+[/home/ben/Desktop/steam.desktop]
+row=0
+col=2
+
+[/home/ben/Desktop/StormOS Optimus Switcher.desktop]
+row=7
+col=2
+
+[/home/ben/Desktop/SWGInfinity]
+row=2
+col=1
+
+[/home/ben/Desktop/Official Harmy’s Star Wars Editions MKV]
+row=8
+col=0
+
+[/home/ben/Desktop/SWGLegendsLauncher]
+row=3
+col=1
+
+[/home/ben/Desktop/Farstar-preCU]
+row=6
+col=0
+
+[/home/ben/Desktop/SWGSource Client v3.1]
+row=5
+col=1
+
+[/home/ben/Desktop/SWGEmu]
+row=1
+col=1
+
+[E543-E57B]
 row=2
 col=0
 
-[/home/stormdev/Desktop/net.lutris.star-wars-the-old-republic-54.desktop]
-row=1
+[4E21-0000]
+row=4
 col=0
 
-[/home/stormdev/Desktop/SWG RestorationCU]
+[4dda7465-295a-3961-a6e0-9dc0e36f1651]
+row=3
+col=0
+
+[Trash]
+row=8
+col=17
+
+[/]
 row=0
+col=0
+
+[/home/ben]
+row=1
 col=0
 
