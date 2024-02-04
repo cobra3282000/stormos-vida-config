@@ -1,44 +1,56 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/ben/Desktop/SWGEmu]
-row=8
-col=0
-
-[/home/ben/Desktop/SWG]
-row=0
-col=1
-
-[/home/ben/Desktop/steam.desktop]
+[/home/ben/Desktop/StormOS Calendar.desktop]
 row=3
-col=1
+col=2
 
-[/home/ben/Desktop/SWGLegendsLauncher]
-row=6
-col=0
+[/home/ben/Desktop/StormOS Translator.desktop]
+row=0
+col=3
 
-[/home/ben/Desktop/SWGInfinity]
+[/home/ben/Desktop/StormOS Optimus Switcher.desktop]
 row=7
-col=0
+col=2
 
-[/home/ben/Desktop/Official Harmy’s Star Wars Editions MKV]
+[/home/ben/Desktop/StormOS Bookmarks Manager.desktop]
 row=1
-col=1
+col=2
 
-[/home/ben/Desktop/SWGSource Client v3.1]
-row=4
-col=0
+[/home/ben/Desktop/StormOS GitHub Manager.desktop]
+row=6
+col=2
 
-[/home/ben/Desktop/SWGR1]
-row=5
-col=0
-
-[/home/ben/Desktop/stormos-build-files]
+[/home/ben/Desktop/wgetm.desktop]
 row=2
-col=1
+col=3
+
+[/home/ben/Desktop/StormOS_Expenses_Calculator.desktop]
+row=5
+col=2
+
+[/home/ben/Desktop/StormOS Download Manager.desktop]
+row=4
+col=2
+
+[/home/ben/Desktop/StormOS Youtube Player.desktop]
+row=1
+col=3
+
+[/home/ben/Desktop/StormOS Studying Timer.desktop]
+row=8
+col=2
+
+[/home/ben/Desktop/StormOS Browser.desktop]
+row=2
+col=2
 
 [4E21-0000]
 row=0
+col=0
+
+[F822D1D522D19948]
+row=4
 col=0
 
 [Trash]

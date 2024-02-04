@@ -2,10 +2,12 @@
 
 <channel name="xfce4-terminal" version="1.0">
   <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
-  <property name="misc-default-geometry" type="string" value="90x28"/>
+  <property name="misc-default-geometry" type="string" value="100x28"/>
   <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
   <property name="background-darkness" type="double" value="0.80000000000000004"/>
-  <property name="font-name" type="string" value="DejaVu Sans Mono 18"/>
   <property name="color-foreground" type="string" value="#5555ffffffff"/>
+  <property name="cell-width-scale" type="double" value="1.1000000000000001"/>
+  <property name="cell-height-scale" type="double" value="1.2000000000000002"/>
   <property name="color-palette" type="string" value="rgb(0,0,0);rgb(170,0,0);rgb(0,170,0);rgb(170,85,0);rgb(0,0,170);rgb(170,0,170);rgb(0,170,170);rgb(170,170,170);rgb(85,85,85);rgb(255,85,85);rgb(85,255,85);rgb(255,255,85);rgb(85,255,255);rgb(255,85,255);rgb(85,255,255);rgb(255,255,255)"/>
+  <property name="font-name" type="string" value="Source Code Pro 16"/>
 </channel>

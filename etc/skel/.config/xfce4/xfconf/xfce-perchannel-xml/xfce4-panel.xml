@@ -13,12 +13,12 @@
       <property name="icon-size" type="uint" value="0"/>
       <property name="size" type="uint" value="30"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="7"/>
+        <value type="int" value="1"/>
         <value type="int" value="3"/>
         <value type="int" value="2"/>
         <value type="int" value="5"/>
         <value type="int" value="4"/>
-        <value type="int" value="1"/>
+        <value type="int" value="7"/>
         <value type="int" value="6"/>
         <value type="int" value="8"/>
         <value type="int" value="9"/>
@@ -30,32 +30,32 @@
         <value type="double" value="0"/>
         <value type="double" value="0"/>
         <value type="double" value="0"/>
-        <value type="double" value="0.79729729729729726"/>
+        <value type="double" value="0.80000000000000004"/>
       </property>
     </property>
     <property name="panel-2" type="empty">
-      <property name="position" type="string" value="p=12;x=830;y=1052"/>
+      <property name="position" type="string" value="p=12;x=890;y=1054"/>
       <property name="size" type="uint" value="48"/>
+      <property name="length" type="double" value="1"/>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
         <value type="double" value="0"/>
         <value type="double" value="0"/>
         <value type="double" value="0"/>
-        <value type="double" value="0.79729729729729726"/>
+        <value type="double" value="0.80000000000000004"/>
       </property>
-      <property name="length" type="double" value="1"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="11"/>
       </property>
-      <property name="autohide-behavior" type="uint" value="1"/>
-      <property name="position-locked" type="bool" value="true"/>
     </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
       <property name="grouping" type="uint" value="1"/>
-      <property name="show-labels" type="bool" value="false"/>
       <property name="show-handle" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="false"/>
     </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
@@ -68,41 +68,58 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
-        <value type="string" value="networkmanager applet"/>
-        <value type="string" value="blueberry-tray.py"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (99%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (83%)"/>
         <value type="string" value="pamac-tray"/>
-        <value type="string" value="user authentication required for wi-fi network “spirit-of-76”…"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (90%)"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (89%)"/>
+        <value type="string" value="no network connection"/>
       </property>
       <property name="known-items" type="array">
-        <value type="string" value="flameshot"/>
-        <value type="string" value="steam"/>
+        <value type="string" value="remmina-icon"/>
         <value type="string" value="chrome_status_icon_1"/>
-        <value type="string" value="Yakuake"/>
-        <value type="string" value="variety"/>
       </property>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="known-players" type="string" value="Chromium;chromium"/>
+      <property name="known-players" type="string" value="Chromium"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
     <property name="plugin-12" type="string" value="clock">
       <property name="digital-layout" type="uint" value="1"/>
-      <property name="digital-date-format" type="string" value="%A, %B %d, %Y"/>
-      <property name="digital-date-font" type="string" value="DejaVu Sans Mono 11"/>
+      <property name="digital-date-font" type="string" value="Source Code Pro 11"/>
       <property name="digital-time-format" type="string" value="%I:%M %p"/>
-      <property name="digital-time-font" type="string" value="DejaVu Sans Mono 12"/>
+      <property name="digital-date-format" type="string" value="%A, %B %d, %Y"/>
+      <property name="digital-time-font" type="string" value="Source Code Pro 11"/>
     </property>
-    <property name="plugin-1" type="string" value="mailwatch"/>
+    <property name="plugin-1" type="string" value="whiskermenu">
+      <property name="hover-switch-category" type="bool" value="true"/>
+      <property name="show-button-title" type="bool" value="true"/>
+      <property name="button-title" type="string" value="Start"/>
+      <property name="button-icon" type="string" value="archlinux-logo"/>
+      <property name="recent" type="array">
+        <value type="string" value="org.remmina.Remmina.desktop"/>
+        <value type="string" value="vncviewer.desktop"/>
+        <value type="string" value="vesktop.desktop"/>
+        <value type="string" value="virtualbox.desktop"/>
+        <value type="string" value="ocat.desktop"/>
+        <value type="string" value="xfce4-terminal.desktop"/>
+        <value type="string" value="org.manjaro.pamac.manager.desktop"/>
+        <value type="string" value="ccsm.desktop"/>
+        <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
+        <value type="string" value="thunar.desktop"/>
+      </property>
+    </property>
     <property name="plugin-4" type="string" value="weather">
       <property name="location" type="empty">
         <property name="name" type="string" value="Louisville, Kentucky"/>
-        <property name="latitude" type="string" value="38.304800"/>
-        <property name="longitude" type="string" value="-85.586500"/>
+        <property name="latitude" type="string" value="38.265500"/>
+        <property name="longitude" type="string" value="-85.562100"/>
       </property>
-      <property name="msl" type="int" value="196"/>
+      <property name="msl" type="int" value="201"/>
       <property name="timezone" type="string" value="America/Kentucky/Louisville"/>
       <property name="offset" type="string" value="-05:00"/>
       <property name="cache-max-age" type="int" value="172800"/>
@@ -135,22 +152,7 @@
         <property name="label1" type="int" value="9"/>
       </property>
     </property>
-    <property name="plugin-7" type="string" value="whiskermenu">
-      <property name="hover-switch-category" type="bool" value="true"/>
-      <property name="button-icon" type="string" value="/usr/share/pixmaps/stormos/menubutton.png"/>
-      <property name="recent" type="array">
-        <value type="string" value="vesktop.desktop"/>
-        <value type="string" value="virtualbox.desktop"/>
-        <value type="string" value="org.kde.plasma-systemmonitor.desktop"/>
-        <value type="string" value="ccsm.desktop"/>
-        <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
-        <value type="string" value="gparted.desktop"/>
-        <value type="string" value="org.flameshot.Flameshot.desktop"/>
-        <value type="string" value="org.xfce.mousepad.desktop"/>
-        <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="STAR WARS The Old Republic.desktop"/>
-      </property>
-    </property>
+    <property name="plugin-7" type="string" value="mailwatch"/>
     <property name="plugin-11" type="string" value="docklike"/>
   </property>
 </channel>

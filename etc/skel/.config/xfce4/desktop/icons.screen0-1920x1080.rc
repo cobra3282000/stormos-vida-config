@@ -2,64 +2,56 @@
 4.10.3+=true
 
 [/home/ben/Desktop/StormOS Calendar.desktop]
-row=7
-col=0
+row=3
+col=2
 
 [/home/ben/Desktop/StormOS Translator.desktop]
-row=4
-col=1
+row=0
+col=3
 
 [/home/ben/Desktop/StormOS Optimus Switcher.desktop]
-row=2
-col=1
+row=7
+col=2
 
 [/home/ben/Desktop/StormOS Bookmarks Manager.desktop]
-row=5
-col=0
+row=1
+col=2
 
 [/home/ben/Desktop/StormOS GitHub Manager.desktop]
-row=1
-col=1
+row=6
+col=2
 
 [/home/ben/Desktop/wgetm.desktop]
-row=6
-col=1
+row=2
+col=3
 
 [/home/ben/Desktop/StormOS_Expenses_Calculator.desktop]
-row=0
-col=1
-
-[/home/ben/Desktop/efi-mac]
-row=3
-col=0
+row=5
+col=2
 
 [/home/ben/Desktop/StormOS Download Manager.desktop]
-row=8
-col=0
+row=4
+col=2
 
 [/home/ben/Desktop/StormOS Youtube Player.desktop]
-row=5
-col=1
+row=1
+col=3
 
 [/home/ben/Desktop/StormOS Studying Timer.desktop]
-row=3
-col=1
+row=8
+col=2
 
 [/home/ben/Desktop/StormOS Browser.desktop]
-row=6
-col=0
+row=2
+col=2
 
-[/home/ben/Desktop/farstar]
+[4E21-0000]
 row=4
 col=0
 
-[b58fb4f1-1328-410b-a10f-18425ad0470f]
+[F822D1D522D19948]
 row=2
 col=0
-
-[4E21-0000]
-row=7
-col=1
 
 [Trash]
 row=8
