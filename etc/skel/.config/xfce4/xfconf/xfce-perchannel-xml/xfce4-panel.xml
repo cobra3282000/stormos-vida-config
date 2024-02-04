@@ -98,12 +98,12 @@
     <property name="plugin-1" type="string" value="whiskermenu">
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="show-button-title" type="bool" value="true"/>
-      <property name="button-title" type="string" value="Start"/>
-      <property name="button-icon" type="string" value="archlinux-logo"/>
+      <property name="button-title" type="string" value=""/>
+      <property name="button-icon" type="string" value="/usr/share/pixmaps/stormos/menubutton.png"/>
       <property name="recent" type="array">
+        <value type="string" value="vesktop.desktop"/>
         <value type="string" value="org.remmina.Remmina.desktop"/>
         <value type="string" value="vncviewer.desktop"/>
-        <value type="string" value="vesktop.desktop"/>
         <value type="string" value="virtualbox.desktop"/>
         <value type="string" value="ocat.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
