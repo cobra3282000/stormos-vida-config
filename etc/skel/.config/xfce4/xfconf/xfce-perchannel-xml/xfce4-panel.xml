@@ -230,14 +230,7 @@
       <property name="show-label" type="bool" value="false"/>
       <property name="items" type="array">
         <value type="string" value="16965414061.desktop"/>
-        <value type="string" value="16965414744.desktop"/>
-        <value type="string" value="16966193141.desktop"/>
-        <value type="string" value="16965414805.desktop"/>
-        <value type="string" value="16965414876.desktop"/>
         <value type="string" value="16965414947.desktop"/>
-        <value type="string" value="16965414978.desktop"/>
-        <value type="string" value="16965417159.desktop"/>
-        <value type="string" value="169654171710.desktop"/>
       </property>
       <property name="move-first" type="bool" value="true"/>
       <property name="arrow-position" type="uint" value="0"/>
