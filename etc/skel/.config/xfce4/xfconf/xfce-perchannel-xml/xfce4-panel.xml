@@ -200,6 +200,9 @@
         <value type="string" value="xfce4-terminal-emulator.desktop"/>
       </property>
       <property name="recent" type="array">
+        <value type="string" value="xfce-settings-manager.desktop"/>
+        <value type="string" value="xfce-ui-settings.desktop"/>
+        <value type="string" value="xfce4-terminal.desktop"/>
         <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
         <value type="string" value="org.xfce.mousepad.desktop"/>

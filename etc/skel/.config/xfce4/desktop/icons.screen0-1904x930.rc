@@ -1,55 +1,43 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/test/Desktop/StormOS GitHub Manager.desktop]
-row=0
-col=0
-
-[/home/test/Desktop/StormOS Browser.desktop]
-row=3
-col=0
-
-[/home/test/Desktop/StormOS Bookmarks Manager.desktop]
+[/home/test/Desktop/sf_stormos-build-files]
 row=2
 col=0
 
-[/home/test/Desktop/StormOS Studying Timer.desktop]
-row=3
-col=1
-
-[/home/test/Desktop/Download Manager.desktop]
-row=2
-col=1
-
-[/home/test/Desktop/StormOS Translator.desktop]
+[/home/test/Desktop/stormos-calamares]
 row=1
-col=1
-
-[/home/test/Desktop/wgetm.desktop]
-row=0
-col=2
-
-[/home/test/Desktop/StormOS Calendar.desktop]
-row=4
 col=0
-
-[/home/test/Desktop/StormOS Youtube Player.desktop]
-row=0
-col=1
-
-[/home/test/Desktop/StormOS_Expenses_Calculator.desktop]
-row=4
-col=1
 
 [/home/test/Desktop/StormOS Optimus Switcher.desktop]
 row=5
 col=0
+
+[/home/test/Desktop/stormos-PKGBUILDs]
+row=4
+col=0
+
+[/home/test/Desktop/stormos-calamares-kde-config]
+row=0
+col=1
+
+[/home/test/Desktop/stormos-calamares-xfce-config]
+row=7
+col=0
+
+[/home/test/Desktop/stormos]
+row=3
+col=0
+
+[/home/test/Desktop/qt5-styleplugins-5.0.0.20170311-35-x86_64.pkg.tar.zst]
+row=1
+col=1
 
 [Trash]
 row=6
 col=0
 
 [/home/test]
-row=1
+row=0
 col=0
 

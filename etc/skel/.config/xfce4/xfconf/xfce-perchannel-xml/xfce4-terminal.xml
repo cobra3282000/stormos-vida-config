@@ -33,4 +33,6 @@
   <property name="misc-search-dialog-opacity" type="uint" value="100"/>
   <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
   <property name="misc-right-click-action" type="string" value="TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU"/>
+  <property name="cell-width-scale" type="double" value="1.1000000000000001"/>
+  <property name="cell-height-scale" type="double" value="1.1000000000000001"/>
 </channel>

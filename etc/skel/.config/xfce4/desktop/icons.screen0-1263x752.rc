@@ -1,21 +1,17 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/test/Desktop/stormos]
-row=3
-col=0
-
 [/home/test/Desktop/StormOS Optimus Switcher.desktop]
 row=1
 col=0
 
-[/home/test/Desktop/sf_stormos-build-files]
+[/home/test/Desktop/calamares.desktop]
 row=2
 col=0
 
 [Trash]
-row=8
-col=17
+row=3
+col=0
 
 [/home/test]
 row=0
