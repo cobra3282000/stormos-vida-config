@@ -1,0 +1,9 @@
+#!/bin/sh
+set -e
+
+rm -R -f /usr/share/icons/smoothX*
+exit 0
+
+fi
+
+

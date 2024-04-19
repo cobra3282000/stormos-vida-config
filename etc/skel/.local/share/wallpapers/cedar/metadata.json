@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "zayronxio.gm@gmail.com",
+                "Name": "zayronxio"
+            }
+        ],
+        "Id": "cedar",
+        "License": "CC-BY-SA-4.0",
+        "Name": "cedar",
+        "Name[x-test]": "xxMkosBigSur_2xx"
+        }
+    }
+

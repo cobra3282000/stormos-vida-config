@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208332 5.8208335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="audio-volume-low.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ababab"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     width="22px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="32"
+     inkscape:cx="4.953125"
+     inkscape:cy="8.515625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,5.8208333"
+       orientation="0,22"
+       id="guide928" />
+    <sodipodi:guide
+       position="5.8208333,5.8208333"
+       orientation="22,0"
+       id="guide930" />
+    <sodipodi:guide
+       position="5.8208333,0"
+       orientation="0,-22"
+       id="guide932" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-22,0"
+       id="guide934" />
+    <sodipodi:guide
+       position="0,5.8208333"
+       orientation="0,22"
+       id="guide936" />
+    <sodipodi:guide
+       position="5.8208333,5.8208333"
+       orientation="22,0"
+       id="guide938" />
+    <sodipodi:guide
+       position="5.8208333,0"
+       orientation="0,-22"
+       id="guide940" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-22,0"
+       id="guide942" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid944" />
+    <sodipodi:guide
+       position="5.2916665,2.9104167"
+       orientation="0,-1"
+       id="guide5218" />
+    <sodipodi:guide
+       position="5.2916665,2.9104167"
+       orientation="1,0"
+       id="guide5258" />
+  </sodipodi:namedview>
+  <style
+     type="text/css"
+     id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#e1e1e1;
+      }
+      </style>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1146"
+       style="fill:currentColor;stroke-width:5.08198;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       d="M 3.175,0.79375 V 5.2916667 L 1.3229167,3.175 Z"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="0.15033197"
+       class="ColorScheme-Text" />
+    <rect
+       style="fill:currentColor;fill-opacity:1;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect846"
+       width="2.1166666"
+       height="1.8520834"
+       x="0.79374999"
+       y="2.1166666"
+       rx="0.52916676"
+       ry="0.52916676"
+       class="ColorScheme-Text" />
+    <path
+       style="fill:none;stroke:currentColor;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;opacity:0.3"
+       d="m 4.2333333,1.8520833 c 0.5291667,0.79375 0.6244174,1.5775204 0,2.38125"
+       id="path1661"
+       sodipodi:nodetypes="cc"
+       class="ColorScheme-Text" />
+    <path
+       style="fill:none;stroke:currentColor;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;opacity:0.3"
+       d="m 4.7625,1.5875 c 0.2645833,0.2645833 0.5291667,0.79375 0.5269851,1.3231048 -3.53e-4,0.085665 0.00118,0.1831986 0.00132,0.2678913 C 5.2916667,3.7041667 5.0270833,4.2333333 4.7625,4.4979167"
+       id="path2066"
+       sodipodi:nodetypes="cssc"
+       class="ColorScheme-Text" />
+    <path
+       style="fill:none;stroke:currentColor;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
+       d="m 3.7041666,2.38125 c 0.2645834,0.2645833 0.2645834,1.0583333 0,1.3229166"
+       id="path2309"
+       sodipodi:nodetypes="cc"
+       class="ColorScheme-Text" />
+  </g>
+</svg>
