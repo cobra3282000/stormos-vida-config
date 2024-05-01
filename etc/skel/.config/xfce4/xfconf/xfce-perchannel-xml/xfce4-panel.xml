@@ -46,12 +46,12 @@
         <value type="double" value="0.63973063973063971"/>
       </property>
       <property name="plugin-ids" type="array">
-        <value type="int" value="11"/>
         <value type="int" value="13"/>
         <value type="int" value="15"/>
         <value type="int" value="16"/>
         <value type="int" value="17"/>
         <value type="int" value="18"/>
+        <value type="int" value="11"/>
       </property>
       <property name="autohide-behavior" type="uint" value="2"/>
     </property>
@@ -74,6 +74,27 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (63%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (45%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (51%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (48%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (50%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (56%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (68%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (57%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (49%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (46%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (44%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76 3” active: spirit-of-76 (37%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (53%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (57%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (55%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (52%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (100%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (63%)"/>
+        <value type="string" value="configuring wi-fi network connection “spirit-of-76”…"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (56%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (62%)"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (65%)"/>
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="no network connection"/>
@@ -96,6 +117,7 @@
         <value type="string" value="blueberry-tray.py"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="net.lutris.Lutris"/>
         <value type="string" value="TeamViewer"/>
         <value type="string" value="Optimus Manager Qt"/>
         <value type="string" value="Launchpad"/>
@@ -181,18 +203,18 @@
     <property name="plugin-7" type="string" value="whiskermenu">
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="show-button-title" type="bool" value="true"/>
-      <property name="button-icon" type="string" value="archlinux-logo"/>
+      <property name="button-icon" type="string" value="/usr/share/pixmaps/stormos/storm os.png"/>
       <property name="recent" type="array">
-        <value type="string" value="org.flameshot.Flameshot.desktop"/>
-        <value type="string" value="xfce-keyboard-settings.desktop"/>
-        <value type="string" value="com.teamviewer.TeamViewer.desktop"/>
-        <value type="string" value="steam-native.desktop"/>
+        <value type="string" value="xfce-ui-settings.desktop"/>
+        <value type="string" value="xfce-backdrop-settings.desktop"/>
+        <value type="string" value="xfce-display-settings.desktop"/>
+        <value type="string" value="compiz-gtk-decorator-theme-selector.desktop"/>
+        <value type="string" value="vlc.desktop"/>
+        <value type="string" value="qt6ct.desktop"/>
+        <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="x2goclient.desktop"/>
-        <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="chromium.desktop"/>
-        <value type="string" value="discord.desktop"/>
-        <value type="string" value="launchpad.desktop"/>
-        <value type="string" value="thunar.desktop"/>
+        <value type="string" value="rustdesk.desktop"/>
+        <value type="string" value="org.remmina.Remmina.desktop"/>
       </property>
       <property name="favorites" type="array">
         <value type="string" value="xfce4-web-browser.desktop"/>
@@ -200,11 +222,7 @@
         <value type="string" value="xfce4-file-manager.desktop"/>
         <value type="string" value="xfce4-terminal-emulator.desktop"/>
       </property>
-    </property>
-    <property name="plugin-11" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="17134947801.desktop"/>
-      </property>
+      <property name="button-title" type="string" value="StormOS"/>
     </property>
     <property name="plugin-13" type="string" value="launcher">
       <property name="items" type="array">
@@ -229,6 +247,11 @@
     <property name="plugin-18" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="17134948556.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-11" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17146044951.desktop"/>
       </property>
     </property>
   </property>

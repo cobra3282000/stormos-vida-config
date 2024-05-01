@@ -1,136 +1,168 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/ben/Desktop/games]
-row=3
-col=1
-
-[/home/ben/Desktop/OpenCore-Legacy-Patcher]
-row=5
-col=1
-
-[/home/ben/Desktop/Farstar-SWG]
-row=2
-col=1
-
-[/home/ben/Desktop/EFI.zip]
-row=8
-col=2
-
-[/home/ben/Desktop/Samsung-NT750XDA-KF59U-Hackintosh]
+[/home/ben/Desktop/storm os4k.png]
 row=6
-col=1
+col=4
 
 [/home/ben/Desktop/EFI]
-row=8
+row=7
+col=3
+
+[/home/ben/Desktop/net.lutris.epic-games-store-16.desktop]
+row=2
+col=4
+
+[/home/ben/Desktop/EFI-HP]
+row=6
 col=0
 
-[/home/ben/Desktop/stormos-build-files]
-row=8
-col=1
+[/home/ben/Desktop/stormos-xfce-config]
+row=5
+col=2
 
-[/home/ben/Desktop/Farstar-PreCU-Launcher]
+[/home/ben/Desktop/directx]
+row=5
+col=0
+
+[/home/ben/Desktop/SWGEmu CU GUI Mod 1.4]
 row=7
 col=2
 
-[/home/ben/Desktop/stormos-calamares-xfce-config]
+[/home/ben/Desktop/games]
+row=1
+col=1
+
+[/home/ben/Desktop/OpenCore-Legacy-Patcher]
+row=3
+col=1
+
+[/home/ben/Desktop/net.lutris.ea-app-85.desktop]
+row=1
+col=4
+
+[/home/ben/Desktop/supermium_122_64_setup.exe]
+row=4
+col=4
+
+[/home/ben/Desktop/supermium_122_32_setup.exe]
 row=2
+col=5
+
+[/home/ben/Desktop/stormos-calamares-xfce-config]
+row=1
 col=2
 
-[/home/ben/Desktop/stormos-PKGBUILDs]
+[/home/ben/Desktop/wget-list-sysv]
+row=2
+col=3
+
+[/home/ben/Desktop/EFI-Ben-ASUS]
+row=7
+col=0
+
+[/home/ben/Desktop/drive_c]
+row=3
+col=4
+
+[/home/ben/Desktop/mac]
+row=2
+col=1
+
+[/home/ben/Desktop/EFI-Lenovo]
+row=8
+col=0
+
+[/home/ben/Desktop/LFS-BOOK.html]
+row=8
+col=2
+
+[/home/ben/Desktop/stormos-reborn-scripts]
 row=4
 col=2
 
-[/home/ben/Desktop/SWGEmu.tar.gz]
+[/home/ben/Desktop/Screenshot_2024-04-27_23-04-44.png]
+row=0
+col=3
+
+[/home/ben/Desktop/stormos-calamares-kde-config]
+row=0
+col=2
+
+[/home/ben/Desktop/Farstar-PreCU.tar.gz]
+row=3
+col=0
+
+[/home/ben/Desktop/SWG Beyond.desktop]
+row=1
+col=3
+
+[/home/ben/Desktop/Beyond]
 row=4
 col=0
 
-[/home/ben/Desktop/stormos-kde-config]
-row=3
-col=2
-
-[/home/ben/Desktop/EFI-Ben-ASUS]
-row=0
+[/home/ben/Desktop/stormos-build-files]
+row=7
 col=1
 
-[/home/ben/Desktop/SWG Beyond.lnk]
+[/home/ben/Desktop/stormos-kde-config]
+row=2
+col=2
+
+[/home/ben/Desktop/stormos]
 row=6
+col=1
+
+[/home/ben/Desktop/storm os.png]
+row=5
+col=4
+
+[/home/ben/Desktop/SWGEmu]
+row=3
 col=3
 
 [/home/ben/Desktop/StarWarsGalaxies]
 row=5
-col=0
+col=1
 
-[/home/ben/Desktop/stormos-xfce-config]
-row=6
+[/home/ben/Desktop/Farstar-SWG]
+row=0
+col=1
+
+[/home/ben/Desktop/stormos-PKGBUILDs]
+row=3
 col=2
 
-[/home/ben/Desktop/EFI-Lenovo]
-row=1
-col=1
-
-[/home/ben/Desktop/stormos]
+[/home/ben/Desktop/config.plist]
 row=7
-col=1
+col=4
 
-[/home/ben/Desktop/SWG Beyond.desktop]
-row=5
+[/home/ben/Desktop/SWGEmu.zip.crdownload]
+row=6
 col=3
+
+[/home/ben/Desktop/mac-1]
+row=4
+col=1
 
 [/home/ben/Desktop/stormos-calamares]
-row=0
-col=2
-
-[/home/ben/Desktop/Beyond]
-row=6
-col=0
-
-[/home/ben/Desktop/directx]
-row=7
-col=0
-
-[/home/ben/Desktop/stormos-reborn-scripts]
-row=5
-col=2
-
-[/home/ben/Desktop/mac]
-row=4
+row=8
 col=1
 
-[/home/ben/Desktop/wget-list-sysv]
-row=7
+[/home/ben/Desktop/AirportItlwm.kext]
+row=4
 col=3
 
-[/home/ben/Desktop/LFS-BOOK.html]
-row=1
-col=3
-
-[/home/ben/Desktop/stormos-calamares-kde-config]
-row=1
+[/home/ben/Desktop/class info & notes.txt]
+row=6
 col=2
 
-[/home/ben/Desktop/SWGEmu]
+[42a94735-da1b-4351-a070-d2ffc337e96d]
 row=0
-col=3
-
-[iPhone]
-row=2
-col=3
-
-[00008120-000C15D60E33401E]
-row=3
-col=3
-
-[A8BE-E1F8]
-row=8
-col=3
+col=4
 
 [fa8930e1-ceb4-3455-b670-dc9c28be5ff7]
-row=3
-col=0
-
-[e343dfd0-a316-47ce-b836-bcc24e20f658]
-row=4
+row=5
 col=3
 
 [Trash]

@@ -7,7 +7,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/ArchLinux_Wallpaper19_ku7.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/stormos/download (10).jpeg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -25,11 +25,19 @@
           <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-shapes.svg"/>
         </property>
       </property>
+      <property name="monitoreDP-1-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/ArchLinux_Wallpaper19_ku7.png"/>
+        </property>
+      </property>
     </property>
+    <property name="single-workspace-mode" type="bool" value="false"/>
   </property>
   <property name="last" type="empty">
     <property name="window-width" type="int" value="800"/>
-    <property name="window-height" type="int" value="595"/>
+    <property name="window-height" type="int" value="601"/>
   </property>
   <property name="desktop-icons" type="empty">
     <property name="file-icons" type="empty">

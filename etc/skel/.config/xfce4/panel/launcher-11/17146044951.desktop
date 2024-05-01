@@ -1,0 +1,26 @@
+[Desktop Entry]
+Version=1.0
+Name=Floorp
+GenericName=Web Browser
+Comment=Browse the Web
+Exec=floorp --class="floorp" %u
+Icon=floorp
+Terminal=false
+Type=Application
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
+Categories=Network;WebBrowser;
+Keywords=web;browser;internet;
+Actions=new-window;new-private-window;profile-manager-window;
+X-XFCE-Source=file:///usr/share/applications/floorp.desktop
+
+[Desktop Action new-window]
+Name=Open a New Window
+Exec=floorp --class="floorp" --new-window %u
+
+[Desktop Action new-private-window]
+Name=Open a New Private Window
+Exec=floorp --class="floorp" --private-window %u
+
+[Desktop Action profile-manager-window]
+Name=Open the Profile Manager
+Exec=floorp --class="floorp" --ProfileManager %u
