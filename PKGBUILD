@@ -1,8 +1,8 @@
-pkgname=stormos-xfce-config
+pkgname=stormos-budgie-config
 _destname1="/etc"
 pkgver=24.05
 pkgrel=1
-pkgdesc="Desktop Config for StormOS XFCE"
+pkgdesc="Desktop Config for StormOS"
 arch=('any')
 url="https://github.com/bfitzgit23"
 license=('GPL3')

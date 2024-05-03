@@ -1,0 +1,24 @@
+[global_config]
+  window_state = maximise
+[keybindings]
+[profiles]
+  [[default]]
+    visible_bell = True
+    icon_bell = False
+    background_darkness = 0.83
+    background_type = transparent
+    font = Terminus 16
+    foreground_color = "#1a5fb4"
+    show_titlebar = False
+    scrollbar_position = hidden
+    palette = "#000000:#aa0000:#62a0ea:#aa5500:#0000aa:#aa00aa:#1c71d8:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#1a5fb4:#ffffff"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
