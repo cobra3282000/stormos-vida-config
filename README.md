@@ -1,1 +1,1 @@
-# stormos-xfce-config
+# stormos-budgie-config
