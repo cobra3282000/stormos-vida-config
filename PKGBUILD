@@ -1,6 +1,6 @@
 pkgname=stormos-budgie-config
 _destname1="/etc"
-pkgver=24.05
+pkgver=24.06
 pkgrel=1
 pkgdesc="Desktop Config for StormOS"
 arch=('any')
