@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=StormOS Kernel Manager
+GenericName=StormOS Kernel Manager
+X-GNOME-FullName=StormOS Kernel Manager
+Comment=StormOS Kernel Manager - Add/Remove Linux kernels
+Exec=/usr/bin/stormos-kernel-manager
+Icon=menubutton
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Utility;Settings;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+Keywords=kernel;tool;system
+StartupNotify=true

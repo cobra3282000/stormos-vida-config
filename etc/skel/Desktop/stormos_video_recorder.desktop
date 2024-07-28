@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=stormos_video_recorder
+Comment=a custom video and stream recorder
+Exec=/usr/bin/StormOS_SR_final
+Icon=screenrecorder
+Path=
+Terminal=false
+StartupNotify=false

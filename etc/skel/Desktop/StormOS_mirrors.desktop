@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=StormOS_mirrors
+Comment=rank your mirrorlist with ease
+Exec=/usr/bin/StormOS_Reflector
+Icon=4kvideodownloader
+Path=
+Terminal=false
+StartupNotify=false
