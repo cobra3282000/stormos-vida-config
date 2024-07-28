@@ -1,6 +1,6 @@
-pkgname=stormos-budgie-config
+pkgname=stormos-xfce-config
 _destname1="/etc"
-pkgver=24.06
+pkgver=24.07
 pkgrel=1
 pkgdesc="Desktop Config for StormOS"
 arch=('any')
