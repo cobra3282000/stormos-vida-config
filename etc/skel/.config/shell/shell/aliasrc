@@ -1,3 +1,0 @@
-alias ls='exa -la'
-alias update='sudo nala update && sudo nala upgrade -y'
-alias key='xev'
