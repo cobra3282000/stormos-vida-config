@@ -1,6 +1,6 @@
 pkgname=stormos-xfce-config
 _destname1="/etc"
-pkgver=24.07
+pkgver=24.08
 pkgrel=1
 pkgdesc="Desktop Config for StormOS"
 arch=('any')
