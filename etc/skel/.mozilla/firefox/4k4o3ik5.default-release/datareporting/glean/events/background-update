@@ -1,8 +1,0 @@
-{"timestamp":711954,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","experiment_type":"rollout","branch":"control"}}
-{"timestamp":711961,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"csv-import-release-rollout","branch":"enable-csv-import"}}
-{"timestamp":711962,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment_type":"rollout","experiment":"ech-roll-out"}}
-{"timestamp":711971,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"mozillaaccounts-toolbar-button-default-visibility-existing-user","branch":"treatment-a"}}
-{"timestamp":711987,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment","experiment":"upgrade-spotlight-rollout","experiment_type":"rollout"}}
-{"timestamp":711994,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment":"phc-rollout","experiment_type":"rollout"}}
-{"timestamp":712011,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"highlighting-in-pdfs-rollout","branch":"treatment","experiment_type":"rollout"}}
-{"timestamp":712015,"category":"nimbus_events","name":"enrollment","extra":{"branch":"delivery","experiment":"long-term-holdback-2024-h1-velocity-desktop","experiment_type":"nimbus"}}
