@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="102">
+  <name>Write ISO to USB drive [isoimagewriter]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>alex-l</author>
+  <homepage>https://store.kde.org/p/1186355</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>34772</downloads>
+  <installedfile>/home/ben/.local/share/servicemenu-download/iso2usb.desktop</installedfile>
+  <id>1186355</id>
+  <releasedate>2017-12-22</releasedate>
+  <summary>Service menu to write ISO images to USB driver using "isoimagewriter", the new tool by Jonathan Riddell. At the moment (August 2017) is still in alpha and distributions still don't provide it.&lt;br />
+&lt;br />
+Wiki page: https://community.kde.org/ISOImageWriter&lt;br />
+The source is here:...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/37/26/92/1186355/c8bdf31b3258098fe0fb0622a5ddeb72852c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/37/26/92/1186355/c8bdf31b3258098fe0fb0622a5ddeb72852c.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MDIxMzczMzkiLCJvIjoiMSIsInMiOiI2MjRlMzUwODkyMjMzMmQxMDYzNDU3YjZjZjBmNWY2MTBhYWNmNDZjOGI2NGZhZjU2M2FmMDE1OGZhM2I2NGUwNWJjZDA0YzA1OWRlMTQwN2ZlNjViMzlhYTcwYzFkZmNlNDlhNWE2NjcyNDVhZjhlOTM1ZDRiYzBkODIwN2IwMCIsInQiOjE3MjYwNDI4MzUsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.BqdxlzBRhghBsbZA3RhYMjTj7791m73nhiLBzzPRem0/iso2usb.desktop</payload>
+  <tags>addon,original-product,cc-by</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>Open Dolphin as Root</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>Chris7mas</author>
+  <homepage>https://store.kde.org/p/998329</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>57</rating>
+  <downloads>30059</downloads>
+  <installedfile>/home/ben/.local/share/servicemenu-download/102548-open_as_root.desktop</installedfile>
+  <id>998329</id>
+  <releasedate>2009-04-10</releasedate>
+  <summary>Open Dolphin as Root is a basic service menu for KDE4 and Dolphin 1.2.x which will create an Open as Root menu when right-clicking directories.&lt;br />
+&lt;br />
+To install it, just copy the open_as_root.desktop file into ~/.kde/share/kde4/services/ServiceMenus, where ~ is your home directory.&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/08/87/94/998329/102548-11.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/08/87/94/998329/102548-11.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjA3MzE1NjYiLCJvIjoiMSIsInMiOiIzOGVhNzNkYThhYTMwZmRkYzU5YjkwOGNiMmUyN2U1YzBlODYwYzYwNTA5ODA5MDU1ZDk3NzM2YzBhNzM3OGNjYWI5ZGZmM2UyNTM4YjhhNDg2ZmMxNzZiMmI2N2E0ZjdkODM3ZjQ3YzVmMmUwOTkxMzM1YmFmOTczOTlkZGQzNyIsInQiOjE3MjYwNDI4NDcsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.hT4VIVBI1_gkKPABv56B_Og9rH5lr1Is21WQeCXBIYs/102548-open_as_root.desktop</payload>
+  <tags>addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>Add exe games to Lutris library</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>loup</author>
+  <homepage>https://store.kde.org/p/1388274</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>55</rating>
+  <downloads>125628</downloads>
+  <installedfile>/home/ben/.local/share/servicemenu-download/addexetolutris.desktop</installedfile>
+  <id>1388274</id>
+  <releasedate>2020-05-29</releasedate>
+  <summary>Allows you to add exe (windows) program via dolphin to Lutris&lt;br />
+&lt;br />
+Lutris is an Open Source gaming platform for Linux. It installs and launches games so you can start playing without the hassle of setting up your games. &lt;br />
+&lt;br />
+The addon is using : "lutris -i" command and the...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/42/80/1388274/06b412cb08925d2dacaeea0156cdc9d1c8a9.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/42/80/1388274/06b412cb08925d2dacaeea0156cdc9d1c8a9.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTA3NTI0NzEiLCJvIjoiMSIsInMiOiI2NTc4ODU1ZTBiNzc5NGNjM2QzZmNhYTE1MzBlYmY5M2IxZGVjMTExYTcwOTQ1MmNhMjhmYzM3Yjc0ZGU2OTJlNTA1NjY0MGY5N2FkNTNlYTFlMGQ4OTlhYmM2ZDAzZDQwOWUxMmQ0YzZlMDQ3YmE5YWM2MTk1ODJiYWNmNGNkNSIsInQiOjE3MjYwNDI4MTksInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.OUcriO97SIQZdqYTIrTUU-yeja07WIqzLYuPxyupceQ/addexetolutris.desktop</payload>
+  <tags>lutris,lgplv3,install,windows,wine,addon,gaming</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>Mount ISO image - here or elsewhere</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>alex-l</author>
+  <homepage>https://store.kde.org/p/1201701</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>47</rating>
+  <downloads>9969</downloads>
+  <installedfile>/home/ben/.local/share/servicemenu-download/mount-iso.desktop</installedfile>
+  <id>1201701</id>
+  <releasedate>2017-12-22</releasedate>
+  <summary>Service menu for Dolphin to mount ISO image in the current folder or in another one of your choice. In both cases it create a new folder with named like ISO file and mount it there.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/37/26/92/1201701/90a95784413acdc32f914694fb9ad7917a83.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/37/26/92/1201701/90a95784413acdc32f914694fb9ad7917a83.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MTIyMzQ0MzgiLCJvIjoiMSIsInMiOiI0YzljYmY4NWFkZTcwZGExZDhlZjM4NDZlMmY5OGE2MDdjMmU5YWU2ZTE1ZmQ5MWYwNTVmMzhhZmJiN2IzYzY2ZGYwYTYzZTA5MmI4NGRkNTNjZWQ5OGY5YmE3NmYxNDgzY2NlZGVjNTE2M2NhNjYwNTc2NTFkZDA2ZDRiMjcwZCIsInQiOjE3MjYwNDI4NzYsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.E9RrdwsVP_6veVbGiQXwicypTXpMceV3nhh4vnoFhh8/mount-iso.desktop</payload>
+  <tags>addon,original-product,cc-by</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>USB Formatter [mintstick][gnome-disks]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>skeleton21</author>
+  <homepage>https://store.kde.org/p/1328693</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>72</rating>
+  <downloads>29491</downloads>
+  <installedfile>/home/ben/.local/share/servicemenu-download/FormatUSB.desktop</installedfile>
+  <id>1328693</id>
+  <releasedate>2022-12-13</releasedate>
+  <summary>with this add-on it is possible to format the usb flash drives from the dolphin menu or via the removable device notifier.&lt;br />
+NOTE: this add-on requires the "mintstick" package or gnome-disks installed.&lt;br />
+Note: in order to display the "Format USB" option in the removable device notifier,...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/67/40/1328693/7d3329b469209dbe402f1c6d7cbee99d42f21.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/67/40/1328693/7d3329b469209dbe402f1c6d7cbee99d42f21.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzczMTgzMTYiLCJvIjoiMSIsInMiOiJjYjMzY2Q3NGE0MDE2MjNiMmYxZTc2YTQ1NDA5ZjI3YTk2NDJjZWYwYjdkNDQyNzZhMjRjNGRmNDBmMzA2YTM2Yjg4MzcyZjcxYzUxNjc4NjI2Y2VjZDVmNWMxYjczMTZhZGRiZmQ5MDM1ZTc1MzQ5ZjE1MGRkZTRiYTJmMWQwZiIsInQiOjE3MjYwNDI4NTQsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.qTHYhW8AAFu7C5o2dgq4q-dD_CuoieP41Vogouj3h-8/FormatUSB.desktop</payload>
+  <tags>original-product,formatter,usb,mintstick,gplv2-later,gnomedisks,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="102">
+  <name>Set as wallpaper and lockscreen</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1327071</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>67</rating>
+  <downloads>43899</downloads>
+  <installedfile>/home/ben/.local/share/servicemenu-download/SetAsWallpaperAndLockScreen.desktop</installedfile>
+  <id>1327071</id>
+  <releasedate>2023-05-01</releasedate>
+  <summary>Menu service for change desktop wallpaper and lock screen image.&lt;br />
+&lt;br />
+Enjoy!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1327071/rect1064.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1327071/rect1064.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODI5MTA0MzkiLCJvIjoiMSIsInMiOiIyY2VjOTg0MzZhMTI0ODUxZDQ0Yzk4ZjczOGJmMWMxOGIxOTZkYjBlNzcyYTZmNGEzYTEzZDk5YzQwMjY2Njg1MDRlZDk1NTJiNjBiMjBlNGM0ZWIyZmIyZDg2YWJiMDg4MjA2M2M1OTg5MzU1ZDBhODAwNGI1ODdlODJjOWVmYSIsInQiOjE3MjYwNDI4MzksInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.rTYAJ3mFBmTmn2g4I7gDclBi0gLKverNV4Tf6XURbtA/SetAsWallpaperAndLockScreen.desktop</payload>
+  <tags>addon,gplv3,lockscreen,menu,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

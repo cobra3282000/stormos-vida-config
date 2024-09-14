@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="716">
+  <name>Button Plasma Splashscreen Archlinux Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>MrMaire</author>
+  <homepage>https://store.kde.org/p/2155161</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>528</downloads>
+  <installedfile>/tmp/GiJJIn-ButtonSplashArchPlasma6.tar.gz</installedfile>
+  <id>2155161</id>
+  <releasedate>2024-05-15</releasedate>
+  <summary>A plasma splashscreen for the Archlinux Desktop. Plasma 6 version.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/00/34/53/2155161/logo.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/00/34/53/2155161/logo.gif</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTU4MDM4MjUiLCJvIjoiMSIsInMiOiJkNmIzMWIxMGI2ZDE0NTcwMTFlMDhhMjMwYjIwYzUzODAxYjRlN2ZlNjRkZjYxNzE1MDNjNjE4MmRiMWM4YjBkZjViZWY4YWJiNDMxMTE5Y2VlZTJjZmQ0MTkyZWEzYWQ0YzRiM2Y0NmUzNjI2MTY0YzJlZDA0ZDBhM2IzNzM4YiIsInQiOjE3MjYwMjU2MDMsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.GH18IfIy_dt0jNQR_QDe6bY4yAM2zIHXzBmGqM1QnCM/ButtonSplashArchPlasma6.tar.gz</payload>
+  <tags>original-product,splashscreen,plasma,plasma6,unix,theme,archalinux,agplv3,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>Cristal Bar Archlinux</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>MrMaire</author>
+  <homepage>https://store.kde.org/p/2155823</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1316</downloads>
+  <installedfile>/tmp/vYaYxU-CristalBarArchlinux-Plasma6.tar.gz</installedfile>
+  <id>2155823</id>
+  <releasedate>2024-05-17</releasedate>
+  <summary>A Splashscreen for Archlinux.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/00/34/53/2155823/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/00/34/53/2155823/logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTU5ODA4NjUiLCJvIjoiMSIsInMiOiIwYTZiYWRjMGJmMmQ0YmZmNDdmNzM0OGM4M2UyNzg0ZTgzNDk4ZGFhNzY4ZTIxNWZkNTcyMWIwZDQyY2Q4NmI4ZjVmOGMwNzJiZGNjYzQyNDA1Nzg0NTY3NmY5MTY4Y2ZlZmNiMTA3ZTgzMDg4MDcyZDk0NmM3NWFmZDRlOGM4NiIsInQiOjE3MjYwMjU1OTUsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.jgu8wULaBiegwEYqDdl4rnz7N3QF8K5km5BfYdZnNvY/CristalBarArchlinux-Plasma6.tar.gz</payload>
+  <tags>splashscreen,plasma,plasma6,theme,unix,kde,linux,gplv3,archlinux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>Vortex-Splash-6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2148692</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>2036</downloads>
+  <installedfile>/tmp/XeXwBn-Vortex-Splash-6.tar.gz</installedfile>
+  <id>2148692</id>
+  <releasedate>2024-04-21</releasedate>
+  <summary>Vortex Splashscreen For Plasma 6&lt;br />
+____________________&lt;br />
+&lt;br />
+Dark Plasma Theme  &lt;span style="color: #008b8b;"> &lt;strong>Vortex-Plasma&lt;/strong> &lt;/span>:  &lt;a href="https://www.pling.com/p/1493451" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2148692/screenshot-20240421-130146.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2148692/screenshot-20240421-130146.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM3MzAyNTIiLCJvIjoiMSIsInMiOiIzYTg4MmUxMDVhMjRkM2EzYTViYThjOWY3ZTc3ZDBhNjlmNWZhZmU3MjJlZGVhNTNkMDUyMGQwMTEzNDNmYWFiNjhkNDY2MDEyY2I4Yzc1ZDI4ZWNlMjlkNTA5YTZiNDE3MDVhOTdmNGU2NzZhNDlhNWUwZTk0ZWY4MTM4YmZhZiIsInQiOjE3MjYwMjU1ODQsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.ZSaWJ585GnRVVBoKXFj-qWTGYoqiIeJGZGzYB7MM0PM/Vortex-Splash-6.tar.gz</payload>
+  <tags>unix,theme,plasma,linux,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>YAPLASS ArchLinux</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>MrMaire</author>
+  <homepage>https://store.kde.org/p/2155166</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>661</downloads>
+  <installedfile>/tmp/fHrnKl-YaplassArchLinux-Plasma6.tar.gz</installedfile>
+  <id>2155166</id>
+  <releasedate>2024-05-15</releasedate>
+  <summary>YAPLASS (Yet Another Plasma Splash Screen) - ArchLinux Plasma 6 version</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/00/34/53/2155166/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/00/34/53/2155166/logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTU4MDU1MDYiLCJvIjoiMSIsInMiOiJhNWU3MGMzMTc0NjY1ZDI3M2ExMThlOTRhNjFjYzAwODJmNDNiNjAzZjE2NDMyMzcyZWQ5NDFiM2ZiMWQ3NjU5NzU1NGU4NmI4NmUyZTI3Y2M4NDhkYjA4YjY2MWI4NDg4Mjc5YmMzNzljMDc3MWUxZjBiNmI3ZTk1ZTdlOTRkMSIsInQiOjE3MjYwMjU1OTcsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.0VTpIvM42ES1BN5ML_sMp2OXJzenFyFgGi_tuoowEuQ/YaplassArchLinux-Plasma6.tar.gz</payload>
+  <tags>kde,linux,gplv3,splashscreen,plasma,plasma6,unix,theme,archlinux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>Noir-Splash-6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2142835</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>3183</downloads>
+  <installedfile>/tmp/QqLuto-Noir-Splash-6.tar.gz</installedfile>
+  <id>2142835</id>
+  <releasedate>2024-03-31</releasedate>
+  <summary>Noir Splashscreen For Plasma 6&lt;br />
+____________________&lt;br />
+&lt;br />
+Plasma Theme&lt;span style="color: #008b8b;"> &lt;strong>Breeze-Noir-Dark&lt;/strong> &lt;/span> :  &lt;a href="https://www.pling.com/p/1361472" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Global...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2142835/screenshot-20240331-122836.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2142835/screenshot-20240331-122836.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTE4OTMxOTQiLCJvIjoiMSIsInMiOiI3MGM0NjdmNGM0NWJkMTg2M2YxZTgwOTYwNTE2OWE3N2ExODFjM2NjYzhhYjVjMmE2ZGZjZjk5Njc5ZDdmZjYzZjc0NWU4NmM1ZDA5NGVjNDczOWNhNWNmOTBmY2FiMGQ5NWY2NDhlMGRlY2M1YjAxZjcxNDk4ZTkxMTk2MGQ0NyIsInQiOjE3MjYwMjU1NjMsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.A_132jAhL23WeKmhmkejPAElcclKO0XfdxaGygGaKtE/Noir-Splash-6.tar.gz</payload>
+  <tags>plasma,unix,theme,linux,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>Arch Linux Loading</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>smokey</author>
+  <homepage>https://store.kde.org/p/2136059</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>3815</downloads>
+  <installedfile>/usr/share/plasma/look-and-feel/org.kde.breeze.desktop/</installedfile>
+  <id>2136059</id>
+  <releasedate>2024-03-08</releasedate>
+  <summary>Arch Linux Splashscreen for KDE Plasma 6 based on Breeze</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/63/64/47/2136059/splash.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/63/64/47/2136059/splash.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDk5MTk3NTIiLCJvIjoiMSIsInMiOiI5Njc0MzUxZWFlMDdlNDJlZGE2ZjE0ZjExMGQ3OWRiNGExNTY3NjhhNzgwOWE2MjgzMGE2NTE4NjJhMDMzOTMxMTRkM2VjMWVlYTA3NzA5OTRmY2RhNzk5YmM1OGU1NDMxYzJkNmRiM2U2NDY0MWE4ZWQ4ODQ3NDUxZTRmZjBhZCIsInQiOjE3MjYwMjU1NTcsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.AHmy3i-6KfBQDLFRygZThdKJQpBslsug_0IPFbFHcVc/main.zip</payload>
+  <tags>plasma,theme,unix,arch,archlinux,efi,gplv3,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>Overload login splash</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>bermer</author>
+  <homepage>https://store.kde.org/p/2124799</homepage>
+  <licence></licence>
+  <version>2.0.0</version>
+  <rating>50</rating>
+  <downloads>5568</downloads>
+  <installedfile>/tmp/BnTywg-Overload.tar.gz</installedfile>
+  <id>2124799</id>
+  <releasedate>2024-05-11</releasedate>
+  <summary>A cool login splashscreen with a loading animation and geometric line art</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/76/30/98/2124799/icon.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/76/30/98/2124799/icon.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTA1Nzk4MzQiLCJvIjoiMSIsInMiOiJiMTJlOGU2NzYwNjI4N2M3NzEzMTY1ODIyNGVhODNkY2ZkOGU0MTQ5ZDJmYTJmNzdiN2JlNDhhZGVlMGY1NzI1M2Y1OTdhZGVlOTQ1MTE5N2YwMTJlNWM0OTA3NzMwNmI3M2MwYjA4YjM1MDNlOTc4OGQwOGMyMWRlZmQ4Njc3YyIsInQiOjE3MjYwMjU1NTIsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.-iXzvLPQQX7z4vWSQAHLOp_wTwkCifdT8BUhODdTO48/Overload.tar.gz</payload>
+  <tags>lgplv3,kde,linux,efi,animation,unix,plasma,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>Arch Simple Blue KDE 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>kraken-afk</author>
+  <homepage>https://store.kde.org/p/2136517</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>25085</downloads>
+  <installedfile>/tmp/xxgKKr-archsimpleblue.tar.gz</installedfile>
+  <id>2136517</id>
+  <releasedate>2024-03-13</releasedate>
+  <summary>A simple blue Arch Linux logo for Plasma Splash-screen for KDE 6.&lt;br />
+Originally from https://store.kde.org/p/1312961&lt;br />
+&lt;br />
+# Installation&lt;br />
+You can install it via System Settings or clone https://github.com/kraken-afk/archsimpleblue into ~/.local/share/plasma/look-and-feel/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/77/15/81/2136517/splash2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/77/15/81/2136517/splash2.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTAyNjA5NDciLCJvIjoiMSIsInMiOiIxYzE1NThmMGVhYzQ3ODcxMTFjY2UzNWY0YjAwMzkyNGNkZjY1MmZjZWJlYmUwOGUyYWE0MjcwZjFhZGQzMGY0OWU1OTk3MDQwMjU4YWE4ZWMxMjViOTZkOGM1ZmI2NDE1NmRmZjgyYWIyZDk0OWU4NmQ5ZjE4ZjM2MzliY2IyOSIsInQiOjE3MjYwMjU1NDMsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.GV5Aj5_hMcV3cSdeDKWQ_4pt_BSwouwnV0VFxCfzodI/archsimpleblue.tar.gz</payload>
+  <tags>kde,kde-plasma,linux,lgplv3,efi,plasma,splashscreen,theme,unix,arch</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>Infinity-Plasma-Splash-6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2145966</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>2995</downloads>
+  <installedfile>/tmp/yIpiAZ-Infinity-Plasma-Splash-6.tar.gz</installedfile>
+  <id>2145966</id>
+  <releasedate>2024-04-11</releasedate>
+  <summary>Infinity Splashscreen For Plasma 6&lt;br />
+____________________&lt;br />
+&lt;br />
+Dark Rounded Plasma Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Infinity-Plasma&lt;/strong> &lt;/span>:  &lt;a href="https://www.pling.com/p/1436579" target="_blank" rel="nofollow">&lt;span style="color:...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2145966/screenshot-20240410-221528.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2145966/screenshot-20240410-221528.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTI4MjA3NzkiLCJvIjoiMSIsInMiOiJhYTU3ZmE1MjBlMWRkNDE5ZTg0NjNjMDRiMGJiYmU1NTMzNmZiYWMyNDhmZGUwZWFlNDQwOTc0ZWY0OWE2Yzg5MTYyZDE3MWFjYWE1MmE3MDMxNDY4ODJiNGQ4MTY5ZDMzNWZiODZlYmJlMDFjYTExNWRhYjA4NzMwMTFjZGNhZCIsInQiOjE3MjYwMjU1NjgsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.X3Vg7-oSyP51AaXNkDB-gVnDq2qSLDh40jhQ9mNdgsc/Infinity-Plasma-Splash-6.tar.gz</payload>
+  <tags>gplv3,linux,kde,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>IncomingCompression</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>cryptedskull</author>
+  <homepage>https://store.kde.org/p/2146978</homepage>
+  <licence></licence>
+  <version>v1.0.0</version>
+  <rating>55</rating>
+  <downloads>3058</downloads>
+  <installedfile>/tmp/OeyovZ-v1.0.0.tar.gz</installedfile>
+  <id>2146978</id>
+  <releasedate>2024-04-17</releasedate>
+  <summary>GIF Source: &lt;a href="https://teia.art/objkt/174979" target="_blank" rel="nofollow">https://teia.art/objkt/174979&lt;/a>&lt;br />
+The GIF used was created by Xponentialdesign</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/77/89/17/2146978/splash1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/77/89/17/2146978/splash1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTMxODgxNDQiLCJvIjoiMSIsInMiOiJlOGQ2NjRkM2UyMTc0YjM3YzVkZDA1MDJlNjUyZTRkYTE3M2EzNTczYThmZWNiOGQxZmE1MjQyYzllNjVjOWIwODA0MDUwM2RiZTI1YjE2MjlhY2Q4YThlZDY0OGU1ZDA5MmFkMGFkMDg3MmFlNzI2ZjMxZDY2ZjVmNzhjMGJjNCIsInQiOjE3MjYwMjU1NjYsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.lGyUBDbKwqHKpZO2qcsg9IBCnwYdGVAUvh1zBQkOhMY/v1.0.0.tar.gz</payload>
+  <tags>animated,linux,login,gplv3,kde,ksplash,efi,geometric,theme,unix,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>Matrix code 'Welcome to KDE'</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>bermer</author>
+  <homepage>https://store.kde.org/p/2154096</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>1979</downloads>
+  <installedfile>/tmp/OOCFFp-MatrixKDE.tar.gz</installedfile>
+  <id>2154096</id>
+  <releasedate>2024-05-11</releasedate>
+  <summary>Matrix-inspired 'falling code' animation saying 'Welcome to KDE'</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/76/30/98/2154096/screenshot-20240511-191746.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/76/30/98/2154096/screenshot-20240511-191746.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTU0NDQzODkiLCJvIjoiMSIsInMiOiIwZTJiODhhNjI4ZGEwMzdlNDE0ZmJlODcyZjA3YmE0NGVhMzJiODU5ZDAwZjI2NWE5MjY2NjI0ZWEwODg0ZTNmNmUxZDQwNGQxM2ZhYzQyZjU5ZjY5NGYwMjM4N2U4ZDAzNTQxNDY0NDRjZDExMjRmMGFmMDM1NDIxMjU3ZjdmYSIsInQiOjE3MjYwMjU1ODEsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.mrWDmctPBVA46v5xWEStxoOm6el7sfHoa3TidE44Ct8/MatrixKDE.tar.gz</payload>
+  <tags>kdesplash,kde,lgplv3,matrix,linux,login,animation,original-product,plasma,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="716">
+  <name>Radial Archlinux Splashscreen</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>MrMaire</author>
+  <homepage>https://store.kde.org/p/2155835</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>523</downloads>
+  <installedfile>/tmp/jybwnQ-RadialArchlinux-Plasma6.tar.gz</installedfile>
+  <id>2155835</id>
+  <releasedate>2024-05-18</releasedate>
+  <summary>Splashscreen for Archlinux.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/00/34/53/2155835/logo.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/00/34/53/2155835/logo.gif</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTU5OTI4OTEiLCJvIjoiMSIsInMiOiJkOGJlMjI1ZDFhZGJhNmRjMmRmZjAzNjc3M2Q3Y2NhZjA4NWVhZGRiYjIyYzQ0Nzk5YmNmMjNkZGU5YTI4OGI3MGYzMzU5YTIxYWM4ZTRkZDJkODY4MmYxOGQyZjc3OWE0ZjJhNDljOTgxNzU3ZTFkMjZmMTMyMDk2YTBkZjZlNyIsInQiOjE3MjYwMjU2MDUsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.5jV_NGZxNsgqM314aeYlKrxnIliI6T5l0XH45VbULcI/RadialArchlinux-Plasma6.tar.gz</payload>
+  <tags>splashscreen,plasma,plasma6,radial,theme,unix,archlinux,gplv3,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Ant Dracula Solid KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1420691</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>25405</downloads>
+  <installedfile></installedfile>
+  <id>1420691</id>
+  <releasedate>2024-09-10</releasedate>
+  <summary>A dark theme created using the awesome &lt;a href="https://draculatheme.com/" target="_blank" rel="nofollow">Dracula&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;h2>&lt;strong>&lt;span style="color: #FF0000;">¡IMPORTANT!&lt;/span>&lt;/strong>&lt;/h2>&lt;br />
+&lt;strong> Hi, if you are really enjoying these themes from me and also from other authors please consider &lt;span> &lt;a href="https://www.pling.com/support-predefined?section_id=5&amp;amp;amount_predefined=1" target="_blank" rel="nofollow"> becoming a supporter for the  KDE Themes and Extensions section &lt;/a> &lt;/span>, I'm sure that me and others creators would be very grateful with your sponsorship since that help us to  keep mantaining and creating new themes for the community :)  &lt;/strong>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/support-predefined?section_id=5&amp;amp;amount_predefined=1" target="_blank" rel="nofollow">&lt;strong> Become a supporter here &lt;/strong>&lt;/a>&lt;br />
+&lt;br />
+Suggested setings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370681/" target="_blank" rel="nofollow">Dracula Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370682/" target="_blank" rel="nofollow">Draula Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370679/" target="_blank" rel="nofollow">Dracula colorscheme&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1420691/b2ca853a29dc005a887b321ae4a0698942dcdb6c5692be2878b60c2eccc580b640be.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1420691/b2ca853a29dc005a887b321ae4a0698942dcdb6c5692be2878b60c2eccc580b640be.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTkwMDg2NzgiLCJvIjoiMSIsInMiOiJjZjA3ZjBlM2Y1MjQ2Njg1MzAzYTUwMWU4NzhiYjUwNGJjYmNiYjkzYmQwY2QyMmZhZTk4ZWE4OTgzMmFjZDI3YmVlNmRlOTEyZDg0Y2MzZDc5YTU2YjMxOWRlYTU4NTgxY2Q0YmMxYWRhMjA1OTRmMzE1ODJhOTczNDQ5MzkzMiIsInQiOjE3MjYwMjUyNzYsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.D1nLvNXb6Q2PSmHZiQJxAm2NLDMRkxZNYlo_jgEL_to/Dracula-Solid.tar.xz</payload>
+  <tags>plasma,kde,linux,gplv3,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

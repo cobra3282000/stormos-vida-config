@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Magna-Glassy-Dark-Icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2123739</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>1298</downloads>
+  <installedfile>/home/ben/.local/share/icons/Magna-Glassy-Dark-Icons/*</installedfile>
+  <id>2123739</id>
+  <releasedate>2024-09-06</releasedate>
+  <summary>Icons for Dark Plasma Themes&lt;br />
+__________________________&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #008b8b;"> &lt;strong>Magna-Glassy-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/2123737" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102240/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Magna-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102238/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+-Dark Rounded Plasma Theme, Transparent and Blur, &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102246" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102248/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Global-6&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2134200/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+__________________________&lt;br />
+&lt;br />
+-Dark Rounded Plasma Theme, Transparent and Blur, &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2110196" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2110198/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2123739/drawing.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2123739/drawing.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjU2NTk3NjkiLCJvIjoiMSIsInMiOiJkNjJjMmViNzIxMWZhY2I1OWU0NTBiN2I2NmMxMTZlNjNiOTAyMGU2ZTc2YWI1YmE0NThmYjE1MDkxMDI2M2JlNTIxMDBiZTc1M2Y3NDgyNTEyYzhmMjdiM2U2MTY2ZThhMDVhZjFlNjc3ZjY0NmY5YmUxNjg2ZThkOWM2YjEyMyIsInQiOjE3MjYwMjUyMTYsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.tAjJu4kDxfwxrRa6Yw5fTU59D6gva8DR8MBdYsx9obg/Magna-Glassy-Dark-Icons.tar.gz</payload>
+  <tags>original-product,unix,linux,icon-theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Magna-Glassy-Light-Icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2123737</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1203</downloads>
+  <installedfile>/home/ben/.local/share/icons/Magna-Glassy-Light-Icons/*</installedfile>
+  <id>2123737</id>
+  <releasedate>2024-09-06</releasedate>
+  <summary>Icons for Light Plasma Themes&lt;br />
+__________________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #008b8b;"> &lt;strong>Magna-Glassy-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/2123739" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-------------------------&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102240/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Magna-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102238/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+--------------------------&lt;br />
+&lt;br />
+-Light Rounded Plasma Theme, Transparent and Blur, &lt;span style="color: #008b8b;"> &lt;strong>Amy-Light-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2018303" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Light Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Amy-Light-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2018306/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+_________________________&lt;br />
+&lt;br />
+-Light Rounded Plasma Theme, Transparent and Blur, &lt;span style="color: #008b8b;"> &lt;strong>Wings-Light-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1994292" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Light Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Wings-Light-Globall&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1994295/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2123737/drawing.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2123737/drawing.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjU2NTk4MTMiLCJvIjoiMSIsInMiOiI2NGM2NWI2ZWJjYTdhZTlhYzdiMTUxZDNiOTM1ZTgxYmFhYjNhOTA4OTRhNGFlYTliZjE1MTFkYjc4ZWNmMWI2Zjk5MDg2NjVjNmYwNWUyZjAyMDMxYTY1MThlYTQzOTAzNTdkZWZjN2M0NzRiMDBiYzc3MDRlNTU2NTFmNjJjOSIsInQiOjE3MjYwMjUyMTIsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.lfG8zbpl5uARwdfUx-ZBhCusrI9q66iLW1Yh4FEHQOc/Magna-Glassy-Light-Icons.tar.gz</payload>
+  <tags>unix,gplv3,icon-theme,linux,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Gradient-Dark-Icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2078427</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>4920</downloads>
+  <installedfile>/home/ben/.local/share/icons/Gradient-Dark-Icons/*</installedfile>
+  <id>2078427</id>
+  <releasedate>2024-09-08</releasedate>
+  <summary> &lt;br />
+Icons for Dark Plasma Themes&lt;br />
+__________________________&lt;br />
+&lt;br />
+ Icons for Light Plasma Themes &lt;span style="color: #008b8b;"> &lt;strong>Gradient-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2078422/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_________________________&lt;br />
+&lt;br />
+Dark Rounded Plasma Theme &lt;span style="color: #008b8b;"> &lt;strong>Gradient-Dark-Plasma&lt;/strong> &lt;/span>:  &lt;a href="https://www.pling.com/p/2078440/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Rounded Global Theme (Look-and-Feel) &lt;span style="color: #008b8b;"> &lt;strong>Gradient-Dark-Global&lt;/strong> &lt;/span>:  &lt;a href="https://www.pling.com/p/2078443/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Rounded Global Theme For Plasma 6 &lt;span style="color: #008b8b;"> &lt;strong>Gradient-Dark-Global-6&lt;/strong> &lt;/span>:  &lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2078427/logo-3.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2078427/logo-3.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjU3ODg1OTEiLCJvIjoiMSIsInMiOiI0MjkxNGZkMWQ4ODE2NGE5MzFmMGYxZjA1NDliYzhhNTg5ZTFlMzBlOTBmY2EyYjM5ODAwZGJiOWQ0YTA4N2ZjNmI0NGVkZjQzMWRmYTJiYjY5ZDc4ZTc1ZDVmY2RiYmIxYTE5MjIwZTBlZTFjODMzOWRiYzNkZGQ1NDM4ZDgzMSIsInQiOjE3MjYwMjUxMjgsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.G7qK3o1y-36yPEyOJzm0SHDt-yZVz_hkov0XdcrfKyA/Gradient-Dark-Icons.tar.gz</payload>
+  <tags>original-product,linux,icon-theme,gplv3,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Magna-Dark-Icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2102240</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>1137</downloads>
+  <installedfile>/home/ben/.local/share/icons/Magna-Dark-Icons/*</installedfile>
+  <id>2102240</id>
+  <releasedate>2024-09-06</releasedate>
+  <summary>Icons for Dark Plasma Themes&lt;br />
+__________________________&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #008b8b;"> &lt;strong>Magna-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102238/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_________________________&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Magna-Glassy-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/2123739" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Magna-Glassy-Light-Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/2123737" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+-Dark Rounded Plasma Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102246/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102248/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Global-6&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2134200/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2102240/3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2102240/3.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjU2NjA2MDYiLCJvIjoiMSIsInMiOiJjYzY1Y2ZjZWMyZDI5MWMzNDk4M2JkYmU1ZmFmNmMwODBkNGM3YzA0YzM5ZWUzMzg5YTNmZjY5MjhlOWU0OGU5NWM0Zjc5YmY5ZTEzNDYyMjljNjVhZjE3ZDI3NDAwMjc0NjM3OTg5M2ExNjk0ZWE2Y2UxMWRhZTU1NTAzMDJmYiIsInQiOjE3MjYwMjUyMDksInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.6YkhaDQwWBRpj-vWWzcOi_AEADOSwvttLnJGrm3OUGU/Magna-Dark-Icons.tar.gz</payload>
+  <tags>unix,linux,gplv3,icon-theme,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Vivid-Glassy-Dark-Icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2119129</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>55</rating>
+  <downloads>1771</downloads>
+  <installedfile>/home/ben/.local/share/icons/Vivid-Glassy-Dark-Icons/*</installedfile>
+  <id>2119129</id>
+  <releasedate>2024-09-07</releasedate>
+  <summary>Icons for Dark Plasma Themes,  Customized and for Plasma 6&lt;br />
+__________________________&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2110189/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_________________________&lt;br />
+&lt;br />
+-Dark Rounded Plasma Theme, Transparent and Blur &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2110196" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Dark Rounded Global Theme, Transparent and Blur &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2110198/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2119129/folder.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2119129/folder.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjU3MDQ3NDYiLCJvIjoiMSIsInMiOiI2YjVmYjhkOWJmMDYxNjA5OWRmNGM0ZmQxOWNiNTQ0ZmFmOWE0MDA1NjQ5ZmQxOWMwMjEyYzExYmE1MDg1NTVlMWY3NzE4ZDYzNTQxYjZkNmNkYTNlZjRkOGIyNjIwOWZiZDE4Y2JjYmMzZTlmMTk3NmZmNGZmOGM1MjY1ODE5ZCIsInQiOjE3MjYwMjUxNzcsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.gF9f2ub6eSg7kkV2OI-SfVXOuKJq5f-EOF9TJn8heYI/Vivid-Glassy-Dark-Icons.tar.gz</payload>
+  <tags>unix,linux,icon-theme,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>BeautyLine</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>sajjad606</author>
+  <homepage>https://store.kde.org/p/1425426</homepage>
+  <licence></licence>
+  <version>Full</version>
+  <rating>93</rating>
+  <downloads>125601</downloads>
+  <installedfile>/home/ben/.local/share/icons/BeautyFolders/*</installedfile>
+  <id>1425426</id>
+  <releasedate>2024-08-09</releasedate>
+  <summary>outlined icons Designed to have unified look and comprehensive coverage.&lt;br />
+I updated about all icons to give you a original set.&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: red;"> BeautyLineSimple new curvy line icon set !!.&lt;/span>&lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: red;"> New Line icon pack added. BeautyLineSimple is based on BeautyLine with simpler &amp;amp; curved Design. DON'T MISS IT.&lt;/span>&lt;/strong>&lt;br />
+&lt;br />
+Beauty icon set include most of mimetypes, actions, apps, places, categories and device icons, and more will be added.&lt;br />
+Most of Famous DE's are considered in designing stage but Feel free to remind me any forgoten Icons. &lt;br />
+next things would be:&lt;br />
+ - adding New App Icons and Completing the set as much as possible&lt;br />
+Almost Done :&lt;br />
+- most of action icons&lt;br />
+- much more apps covered&lt;br />
+ Also I know there is a problem in some icons but I'll redesign them in every release.&lt;br />
+My main focus is on KDE as I use it myself but I'll try to support other DE's too and I'll add more DE specific icons in every release.&lt;br />
+&lt;br />
+** By the way, I'm not a professional icon designer (as you can see!) and I just try to design and overhaul as good as I can to add something to the Great &amp;amp; Lovely Linux Community. **&lt;br />
+&lt;br />
+I will try to complete the icon set as much as possible.&lt;br />
+your comments and ideas are Welcome &amp;amp; will be covered and implemented even sooner, so any comment and idea is most welcome.&lt;br />
+&lt;br />
+Just enjoy it :)&lt;br />
+&lt;a href="http://designpark.ir" target="_blank" rel="nofollow">My Webdesign - طراحی سایت &lt;/a> web site , more icon sets and My other works will be available on Website and Github&lt;br />
+&lt;br />
+In Case you want to buy me coffee :-)&lt;br />
+Paypal &amp;amp; Credit Card Donation: &lt;a href="https://reymit.ir/sajjad606" target="_blank" rel="nofollow">Donate&lt;/a>&lt;br />
+Donation with PerfectMoney : USD = U25253552 , EUR =E26653647&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/21/57/75/1425426/screenshot-20230127-0040242.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/21/57/75/1425426/screenshot-20230127-0040242.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODQ1MTQzMjAiLCJvIjoiMSIsInMiOiI5MDE0YmY5NWQzNGU0OTQ1MmM2MTdlMmE5MjZjNWFlZjllZTI3NjBiYjk1MzM4MGVhMmQ0NjQyNjgyNWY1YmYzMGQwZjBlNzBlY2M1ZTI4MDQ0YWEzZWY3M2I5MGM1ZDBmMjc3Mjg3YTNkZmI0OWI1ODViNGM5ZjQyYzEzMDRjYyIsInQiOjE3MjYwMjUwNzEsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.O_RcFtv3qqOVGQmeSQVTsDHCljRzztyagLFmoe5iAqE/BeautyFolders-20230519162903.tar.gz</payload>
+  <tags>colorful,original-product,outline,candy,beauty,linux,modern,icon-theme,gplv3,unix,kde,gnome,xfce,lxde,cinnamon,mate,lxqt,deepin,elementary,budgie</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Wings-Dark-Icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1982098</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>65</rating>
+  <downloads>618</downloads>
+  <installedfile>/home/ben/.local/share/icons/Wings-Dark-Icons/*</installedfile>
+  <id>1982098</id>
+  <releasedate>2024-09-04</releasedate>
+  <summary>Icons for Dark Plasma Themes&lt;br />
+&lt;br />
+Based on Default &lt;span style="color: #55759c;"> &lt;strong>Breeze&lt;/strong> &lt;/span> Icons&lt;br />
+__________________________&lt;br />
+&lt;br />
+-Dark Rounded Plasma Theme,  &lt;span style="color: #5e81ac;"> &lt;strong>Wings-Dark-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1982111/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+_________________________&lt;br />
+&lt;br />
+-Icons for Light Plasma Themes &lt;span style="color: #55759c;"> &lt;strong>Wings-Light-Icons&lt;/strong> &lt;/span> , which you can download: &lt;a href="https://www.pling.com/p/1982094/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1982098/screenshot-20230202-132341.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1982098/screenshot-20230202-132341.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjU0NjU1NDQiLCJvIjoiMSIsInMiOiJkNWUzY2M2NGZmMzlhNzkyNzlhMDYwMmJjNDMyZDgxYWVmODI1MGQ0OThhNThlMTRjM2M5NTRlNzE2OWI2ZjQwZTVjZGFiNDFkYTg0OTllNjRkYTBlNWYyYmJiOThkMDhhZDY0OTJkMjkyZTQ3OWE5ZGM3OWUwZTdmYTU1MmQ5MSIsInQiOjE3MjYwMjUxMjUsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.t9PV72vdDlEM7bkbUqvmbY5q5ud0mB4C2wxvp_p6Gtg/Wings-Dark-Icons.tar.gz</payload>
+  <tags>gplv3,linux,icon-theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Amy-Dark-Icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2011598</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>1276</downloads>
+  <installedfile>/home/ben/.local/share/icons/Amy-Dark-Icons/*</installedfile>
+  <id>2011598</id>
+  <releasedate>2024-09-06</releasedate>
+  <summary>Icons for Dark Plasma Themes&lt;br />
+&lt;br />
+Based on Default &lt;span style="color: #55759c;"> &lt;strong>Breeze&lt;/strong> &lt;/span> Icons&lt;br />
+__________________________&lt;br />
+&lt;br />
+-Dark Rounded Plasma Theme,  &lt;span style="color: #5e81ac;"> &lt;strong>Amy-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2011600/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+_________________________&lt;br />
+&lt;br />
+-Icons for Light Plasma Themes &lt;span style="color: #55759c;"> &lt;strong>Amy-Light-Icons&lt;/strong> &lt;/span> , which you can download: &lt;a href="https://www.pling.com/p/2011596/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2011598/1.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2011598/1.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjU2NjAxNTYiLCJvIjoiMSIsInMiOiJmYjAwMjZmNjA4NTMzMDFhMjAzNzEyNzc0MjAxN2I1ZDZhNGQwODFkNTU5YTZiZGQ0OGRkNDkxMTJmNmRiYzUyZjAyMmVjODAyM2EwYTc3YjM2YmIyNDI5NWZlYmM5MmE5MjJjOTEyMWM4OWYxZGUwNmI3OGQ4NjViOGFjYmUwYiIsInQiOjE3MjYwMjUxMzIsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.WwkN9Wt0W2Uctli62B8ncGRIjW0rC4gfVR9grL_ptr8/Amy-Dark-Icons.tar.gz</payload>
+  <tags>icon-theme,gplv3,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Vivid-Magna-Glassy-Dark-Icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2137690</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>246</downloads>
+  <installedfile>/home/ben/.local/share/icons/Vivid-Magna-Glassy-Dark-Icons/*</installedfile>
+  <id>2137690</id>
+  <releasedate>2024-09-07</releasedate>
+  <summary>Icons for Dark Plasma Themes&lt;br />
+&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Glassy-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2119129/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2110189/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+________________________&lt;br />
+&lt;br />
+-Dark Rounded Plasma Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2110196/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Magna-Dark-Global-6&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2137691/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2137690/screenshot-20240314-223506.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2137690/screenshot-20240314-223506.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjU3MDQ0NjQiLCJvIjoiMSIsInMiOiIwMjcyYjYyNTQzYmM4ZTI3Y2ZkMzFjNjc0MDkxMWQ1MzNkNTNhYzgwNjAzNTc2YTk0N2NmZTA1NTk0Y2UzMDUwMjUzNDRlOWI3MWY4YmZlNjUyMTNhNTdjMmVlYWMxZDc1YWY1Y2QwNTVhNTRlYmNkMTc4NDBmOTMzOTE2ZjEwMCIsInQiOjE3MjYwMjUxNzEsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0._r2J7jhG61cnLG2u3oYEeRKZ_dKCklQK-KBkoUeRu9k/Vivid-Magna-Glassy-Dark-Icons.tar.gz</payload>
+  <tags>unix,linux,gplv3,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Vivid-Dark-Icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2110189</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>1073</downloads>
+  <installedfile>/home/ben/.local/share/icons/Vivid-Dark-Icons/*</installedfile>
+  <id>2110189</id>
+  <releasedate>2024-09-07</releasedate>
+  <summary>Icons for Dark Plasma Themes,  Customized and for Plasma 6&lt;br />
+__________________________&lt;br />
+&lt;br />
+Icons &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Glassy-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2119129/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_________________________&lt;br />
+&lt;br />
+-Dark Rounded Plasma Theme, Transparent and Blur &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Plasma&lt;/strong> &lt;/span>:  &lt;a href="https://www.pling.com/p/2110196/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+-Dark Rounded Global Theme, Transparent and Blur &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Global&lt;/strong> &lt;/span>:  &lt;a href="https://www.pling.com/p/2110198/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2110189/logo-3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2110189/logo-3.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjU3MDQ5MzUiLCJvIjoiMSIsInMiOiJkMzgxYjk4OWNkNzZkZTQ5YjhlYjQ5YmU3NGUxOWViZmRjNjI2NWU1MDQ0NTY1ODQ1ODU2NzUwY2JkZGZmMWFmMjNhNWU5MGI0NmNlZTQ4Yzk1OTQwNzAyNmY3NWI4MWI2N2JhZmMyYWVhZjUxNzAwOWEzNDMwY2IwOGNiYmY0YiIsInQiOjE3MjYwMjUxNzQsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.IgEqQbTYLSE0s05ypKgTv34_1-5ucBrCuVbbok0CRo0/Vivid-Dark-Icons.tar.gz</payload>
+  <tags>gplv3,linux,icon-theme,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

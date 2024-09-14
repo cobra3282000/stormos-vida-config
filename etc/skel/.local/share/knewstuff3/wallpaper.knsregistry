@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="289">
+  <name>Arch Blue Liquid</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1562665</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>149531</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/ArchBlueLiquid/*</installedfile>
+  <id>1562665</id>
+  <releasedate>2021-07-23</releasedate>
+  <summary>Blue Liquid logo wallpaper for Arch</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1562665/d0a61c69f9cfbf118b74130f739db8acd2ba9bbd4e299dee741315b1f31523143e10.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1562665/d0a61c69f9cfbf118b74130f739db8acd2ba9bbd4e299dee741315b1f31523143e10.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjcwNTc0OTgiLCJvIjoiMSIsInMiOiI3MGQxOWVlODBhMDUyOTNjYmRjZTM2MGM5MDQ2OTA4ZTFlOTlhMGJkN2YyN2Y2NGQwMTU5YmQ3MDY0ZGU1ZTNlZmNlZGVlYTU4MGNkODQxNGUyM2U1MjM4ZmFkYjBhNWYzNGIwMzk2ZjIwMzA0NjljZmI2MzI0Y2YxNGY5OTExYiIsInQiOjE3MjYwMjUwNzgsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.E9rlh4fEguOieFGfWD55RgsO2uQnMuuFrMjSH1alNzI/ArchBlueLiquid.tar.gz</payload>
+  <tags>original-product,wallpaper,arch,artwork,gplv2-later</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>5-Arch-abstract-pattern-blue</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1455470</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>772</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/5-Arch-abstract-pattern-blue.png</installedfile>
+  <id>1455470</id>
+  <releasedate>2020-12-05</releasedate>
+  <summary>Linux wallpaper abstract Arch&lt;br />
+1920*1080&lt;br />
+.png 1.7mb</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1455470/9b532a643eb8ec2c466c1c98010c529b43598ab7b4fb92c6429d5f63f82cf24c48ee.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1455470/9b532a643eb8ec2c466c1c98010c529b43598ab7b4fb92c6429d5f63f82cf24c48ee.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDcxNDYyNDAiLCJvIjoiMSIsInMiOiJlYjkxYzI3ZmUxMjEwOGI4MDQ4ZDk1NWY3MTcyOGIwYWJhYmRhYzI5NTYyMGU1YzgxM2UxMmJiNDkzZGEzMjZhNmM2ZTk1NTZlZjJlYjY0ODc0ODFiM2JjNzEwZDJkOGJkMjYwOGJlNmIwZGI0NDJhZDMxZDI2MzA1ZDFjNGRkNyIsInQiOjE3MjYwMjU4NzEsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.HY3mUeiEPcfnLrQglJ7JGXLt0sqRN8BXwAx4IG2gyak/5-Arch-abstract-pattern-blue.png</payload>
+  <tags>cc0,wallpaper,efi,tux,artwork,abstract,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Magna Mountain Wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2102218</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>17744</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Magna-Mountain-Wallpaper-With-Plasma-Logo.png</installedfile>
+  <id>2102218</id>
+  <releasedate>2023-10-31</releasedate>
+  <summary>Magna Mountain Wallpaper with Plasma Logo and without Plasma Logo&lt;br />
+____________________________________________________________&lt;br />
+&lt;br />
+Based on: https://www.uhdpaper.com/2023/05/night-sky-colorful-beautiful-4k-6081k.html&lt;br />
+____________________________________________________________&lt;br />
+&lt;br />
+Dark Rounded Plasma Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102246/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102248/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2102218/1-logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2102218/1-logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTg3NDIxMTYiLCJvIjoiMSIsInMiOiJmODg1Njc0M2MyMmNhNzFhNGFiMzc1MGQyODM5MmE3MGY2YWYyMGVmOWU0ZDY1NDU5MGI4ZTU5YjBhNWVmOGQzODUwMjY2ZDQ2NjQxMzcyMjc5YThiMDg0ZTFkMjljZGVjNTM2MDBjOTRmNWQ1OTBjM2UyNmM0YzJhNjA2MGQ2ZSIsInQiOjE3MjYwMjUyMjUsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.K7pptbV-47PIpsexE8YSP5kq63tnnChNBEz-G0s-51k/Magna-Mountain-Wallpaper-With-Plasma-Logo.png</payload>
+  <tags>wallpaper,plasma,artwork,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>Arch-linux-mate</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1713020</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2378</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Arch-linux-mate.png</installedfile>
+  <id>1713020</id>
+  <releasedate>2022-02-18</releasedate>
+  <summary>1920 * 1080&lt;br />
+Beautiful, bright wallpaper for your desktop!&lt;br />
+Please leave your comment or rate this wallpaper!&lt;br />
+Thanks everyone!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1713020/arch-linux-mate.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1713020/arch-linux-mate.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDUxNzkxNTgiLCJvIjoiMSIsInMiOiIxY2ExMjY3MTk5ZWQzZWU3ODgyMGQxOTc5OWJjYjdmZTM1MWFhMTQxYWZlNTI0YWQyYzk1ZmRlOWIyOTNjNTljZmM1OGQwMDEyNmU0ZDZkYWU2NDgxY2EzY2FmOGYwNTYzMWFkOGQ2ODYwOWFiYzEzZDc4ODg3OTgwYTM3N2Y3MyIsInQiOjE3MjYwMjU4MTAsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.LAJ2qCgM1LaQ59YnkXYLRUSzVMZjwBpsVNfisppKwks/Arch-linux-mate.png</payload>
+  <tags>linux,mate,arch,artwork,cc0,tux,wallpaper,efi</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>Wallpaper Arch Linux blue sky</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>narayansilva</author>
+  <homepage>https://store.kde.org/p/1733014</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1499</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/wallpapers fullhd (1).png</installedfile>
+  <id>1733014</id>
+  <releasedate>2022-03-13</releasedate>
+  <summary>Wallpaper based on arch linux logo</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/64/94/31/1733014/wallpapers-fullhd-1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/64/94/31/1733014/wallpapers-fullhd-1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDcyMTA3MzMiLCJvIjoiMSIsInMiOiJhYzRmMGExMTQzMmIxYjdkZjkwMjY2ZTEwNmU0NzJmOGFjZTBlZDBjY2EwMTEwYTMxZDI1YTIyNmMxMWE5ZjU0Nzc5ZDgxZDIyM2NjMzJiNzc3NGFkMDQ2ODFhODRmNDRhOTBkMjlmNGYyMjliYTVjZjJmYTQ3MTdjZmM3Y2EwMiIsInQiOjE3MjYwMjU4MzYsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.2Jdu-b9YyM8VJcaW3SysVcJd_mbBewmCoEojuyD5gXc/wallpapers fullhd (1).png</payload>
+  <tags>abstract,artwork,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>Arch-Fantastic-Planet-wallpaper-14</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1460257</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>933</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Arch-Fantastic-Planet-wallpaper-14.png</installedfile>
+  <id>1460257</id>
+  <releasedate>2020-12-16</releasedate>
+  <summary>1920*1080&lt;br />
+Wallpaper Linux.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1460257/af33327fa89a70f00c0e5528a12d3248304b51ad58840800273c3740c8cb7bae40a8.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1460257/af33327fa89a70f00c0e5528a12d3248304b51ad58840800273c3740c8cb7bae40a8.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDgxMDc1MDMiLCJvIjoiMSIsInMiOiI5MGEyY2YxYmUyMzg5ZDczMDE2OTlmNzQ0NzNhODU3ZTlkN2ZmZTMzYzdiZGRiMWM2M2IwMmZmZjY5N2Y1ZTBhZjcxZjdlNGIyZmNiNzJkZDgwZTM3ZTNhNDNlYzQ3MDBjYjg0YjI5OTMzNmY0NjBlZGFmNWY0ZDJmYjcxNGM2YSIsInQiOjE3MjYwMjU4NjQsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.2yJIt7FjnNJHgsUFWtMiMWje1q2HicAV6xD1uB5aYow/Arch-Fantastic-Planet-wallpaper-14.png</payload>
+  <tags>arch,artwork,cc0,wallpaper,efi,tux,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>ArchLinux_uu7-wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1676598</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2026</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/ArchLinux_uu7-wallpaper.png</installedfile>
+  <id>1676598</id>
+  <releasedate>2022-01-03</releasedate>
+  <summary>1920 * 1080&lt;br />
+Beautiful, bright wallpaper for your desktop!&lt;br />
+Please leave your comment or rate this wallpaper!&lt;br />
+Thanks everyone!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1676598/archlinux-uu7-wallpaper.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1676598/archlinux-uu7-wallpaper.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDEyMDUyOTIiLCJvIjoiMSIsInMiOiIyZGUxMGYzMGVjMmYyNWFmODk5NjhhOGZiNzJlMDNhN2VjNzVjOTlhMjk0M2E4ZWMxYWQwOWJmYTZlZWZiZDNiOThjOWQ4ODJhNDg1YTZmY2IxMjMyNWI4MmYyNjU5YTQ4MWZlMWY5M2E0M2Q0YTU0ZjVmNTFiN2ZmOGYxNDE1NiIsInQiOjE3MjYwMjU4MTYsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.H2WC9b7TFsBgiiKnMt6oB2kuN9tvMXLJ7mCiH_ngPWI/ArchLinux_uu7-wallpaper.png</payload>
+  <tags>cc0,linux,original-product,artwork,tux,abstract,arch,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>Arch-wallpaper-Original-linux</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1479943</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2476</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Arch-wallpaper-Original.png</installedfile>
+  <id>1479943</id>
+  <releasedate>2021-02-07</releasedate>
+  <summary>Wallpaper  Arch linux&lt;br />
+1920*1080</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1479943/40931e87c961755325db8b3f5b0b52804e5f7cef8c621e9e0bde10e7d4977c337956.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1479943/40931e87c961755325db8b3f5b0b52804e5f7cef8c621e9e0bde10e7d4977c337956.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI3NTMyMTIiLCJvIjoiMSIsInMiOiJhZGYwYTQ0MGMxOGQwNzlmZjczODZiNzI3MTNiNDYwM2RjOTJmZGQ0M2FiMWI2ZDg4YzBmM2U3OTA2ZGE5ZjgzZDg3ZTFmNDYxNzc1MGRjZTE4ZjcyMzBmNDUwMTBmNDk2NDJiNDEzNzBmOGZiOWQ1Y2ViODNmOGY1Y2IzZTAzMiIsInQiOjE3MjYwMjU4MDcsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.hbt2corIa2QQPoovJznutluhqIXrRSEb0udKWIl6wao/Arch-wallpaper-Original.png</payload>
+  <tags>tux,original-product,linux,wallpaper,arch,artwork,cc0</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>ArchLinux_jt8</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1574424</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1897</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/ArchLinux_jt8.png</installedfile>
+  <id>1574424</id>
+  <releasedate>2021-08-15</releasedate>
+  <summary>1920 * 1080&lt;br />
+Beautiful, bright wallpaper for your desktop!&lt;br />
+Please leave your comment or rate this wallpaper!&lt;br />
+Thanks everyone!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1574424/b9bf7fec759f16470e45ee5a089ab011601659a20c97f4f29b03c8eb7b42e6905eaa.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1574424/b9bf7fec759f16470e45ee5a089ab011601659a20c97f4f29b03c8eb7b42e6905eaa.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjkwMDgwNzciLCJvIjoiMSIsInMiOiI3NGNlOGE0N2E1YzZjMTE5ODVmMzM2ZWZlN2RhMWUxNTFjY2Y5YzI4ODFmYWQ3OGQzYTk0ZDEwNWVhNDUwOWU0ZjA1ZjYwNmQxZTFiNGM3NThkMGE0ZWU2YzEwNjBjMDk2MWRiZDM3ZDMxODUwMjRlNzZlMzBiNzhmNTQ0YjQxZCIsInQiOjE3MjYwMjU4MTcsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.m-akOQNxcQiTGYexxEFfWlOVL8ZmGY3RT1m4jA3qG_s/ArchLinux_jt8.png</payload>
+  <tags>cc0,artwork,arch,tux,linux,efi,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>Wallpaper  Arch Linux neon circle</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>narayansilva</author>
+  <homepage>https://store.kde.org/p/1742633</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>680</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/wallpapers fullhd neon circle.png</installedfile>
+  <id>1742633</id>
+  <releasedate>2022-03-21</releasedate>
+  <summary>wallpaper based on arch linux logo.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/64/94/31/1742633/wallpapers-fullhd-neon-circle.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/64/94/31/1742633/wallpapers-fullhd-neon-circle.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDc4ODY0MTgiLCJvIjoiMSIsInMiOiIzYjQ4YmIzMTc0N2RlZDhhYTU4ZjBmMTk0ZjkzOWJmYzlhMWUyMTIzMTJjNzRmNTg4MzEzMTBhNDhlNWRiYTRlODhkZTU2NzFjZjVhMjRkZjhkMDJlN2E1YTcwMjE2ZjAxZTdhNjVjZjQ2MGRhNGIzZmZlNzRhYWMzZDc4NDk5NyIsInQiOjE3MjYwMjU4ODIsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.Qnbu0mrMLhyL2ysXt4st4mjJjItIRvIpANbMczBBBPM/wallpapers fullhd neon circle.png</payload>
+  <tags>abstract,wallpaper,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>anarchy computer cyber dark hacker hacking internet sadic hd</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>nature</author>
+  <homepage>https://store.kde.org/p/1548979</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2642</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/anarchy_computer_cyber_hacker_hacking_virus_dark_sadic_internet_1920x1036.jpg</installedfile>
+  <id>1548979</id>
+  <releasedate>2021-07-04</releasedate>
+  <summary>size 1920 x 1281</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/96/86/1548979/4e083e9dab5d9e2e8ede5d23c785bd30d5994195e80db4a86b0d20f91150fb18dabc.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/96/86/1548979/4e083e9dab5d9e2e8ede5d23c785bd30d5994195e80db4a86b0d20f91150fb18dabc.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjUzNTcxMjUiLCJvIjoiMSIsInMiOiIxMmE5MzliYWY3ZTMzYjJhMDBlNzBjZGZkMThiYjFiYjM1ZjJmNTkwYWU5MWNkZTg1YWVhOGU1YWMyNjhjNDU1MjhiMzM1YmVjNzc0OGYwY2QyODcxNWMzZGY3ZGFhY2EyZDVmNTUyZGYwYzIwODA1Y2FhNTI4YTlhNzJiMWZlYiIsInQiOjE3MjYwMjU4MDUsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.IFLNqYQY6wVfjuwdhDYb5t-4XgWI1EwjKQyIFAVg4Us/anarchy_computer_cyber_hacker_hacking_virus_dark_sadic_internet_1920x1036.jpg</payload>
+  <tags>artwork,anarchy,abstract,cc0,hacker,dark,computer,cyber,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Wings-Wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1982059</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>17459</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Wings-Wallpaper-With-Plasma-Logo.png</installedfile>
+  <id>1982059</id>
+  <releasedate>2023-02-04</releasedate>
+  <summary>Wings-Wallpaper  (With KDE Plasma Logo and Without  Logo)&lt;br />
+&lt;br />
+Dark Rounded Plasma Theme &lt;span style="color: #489ab1;">Wings-Dark-Plasma&lt;/span>, which you can download:  &lt;a href="https://www.pling.com/p/1982111/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1982059/logo-2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1982059/logo-2.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzU1MDY1NjQiLCJvIjoiMSIsInMiOiIzMDVmZmQ1OGM5ZGMxZTFjOTg1NDkyMzZmMjZkZjM5ZGZjNDA1NjEyNmRkMjIxMDk0MjQzMjEwMDAwMmQ0NjUzZGFhODBlMmRiNjE4OTk3MWQwZGVjMWZkZjhhMjlkNjUwZGViMDcxMDViZmE0ZjkxOTYxNjI4ODE1ZGM1ZTYxNCIsInQiOjE3MjYwMjUxNTYsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.GVCJuw43GnxMcG1jwI8xrcdHj87ntRW7inwVRcocvOA/Wings-Wallpaper-With-Plasma-Logo.png</payload>
+  <tags>original-product,plasma,artwork,kde,gplv3,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Ant-Dracula wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1378234</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>142601</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/tuVCrw-Dracula-Wallpapers/*</installedfile>
+  <id>1378234</id>
+  <releasedate>2020-04-24</releasedate>
+  <summary>&lt;strong>wallpaper with colors that fits my &lt;a href="https://store.kde.org/p/1370871/" target="_blank" rel="nofollow">Ant-dracula theme for plasma&lt;/a> &lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1378234/1efd31aef2e85cd56d3226ca68f7f7403ff4.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1378234/1efd31aef2e85cd56d3226ca68f7f7403ff4.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODc3NjA2MDIiLCJvIjoiMSIsInMiOiIwMjg4NDM2MGEwYzU0NDM3ZGYyNWYzMmRmNTYxZmIxYzVjOWQxZDU1NzZlMTM3MjE5NzE2Mzg2ZWE4OTRiZGZlOTRhYjJlMjhkZWI5NmUxYTg5MGQ2NWFhMThlNjA3NDFkYmE0NzAwNjBiZTVjZWUwYzQ0MDI2YzZmNDg1MmYxNiIsInQiOjE3MjYwMjUyODcsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.0d5fSFIw9dhO2mMsEbjlukQ61fL_pLnB8lYduqhq4Io/Dracula-Wallpapers.tar.xz</payload>
+  <tags>artwork,cc-by-sa,wallpaper,plasma,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>Arch_Wallpaper_v1.2</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1437434</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>993</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Arch_Wallpaper_v1.2.png</installedfile>
+  <id>1437434</id>
+  <releasedate>2020-10-23</releasedate>
+  <summary>Arch LINUX WALLPAPER:&lt;br />
+1920*1080&lt;br />
+Wallpaper Linux.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1437434/d95f5ffd79d3761e415e29affd5ed39d9d4c465455caef2f3486ca6d976e99053d49.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1437434/d95f5ffd79d3761e415e29affd5ed39d9d4c465455caef2f3486ca6d976e99053d49.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDM0NDY4ODgiLCJvIjoiMSIsInMiOiJiMjY4OTFhNmRhNGI2YzgzOGJjMDYyNDNhOTZjMmU3NmM4NjA5MzhlMTE3MDI1NGQ4OGY0NThkMTcyZTU4MjUzZDJkZWNiMmRjNDIyNGM1ZjEyYWFhNmNlZTgxMzA0MWJjYWIwZjNkMWUwNDhiZTg2NzUzNTkxYTdkY2MyMjUyYiIsInQiOjE3MjYwMjU4NjEsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.ok4g8SrHO3tXfz5sVymjC-YKkOUPSs7okFcteiII1L8/Arch_Wallpaper_v1.2.png</payload>
+  <tags>tux,arch,artwork,cc0,original-product,linux,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Minimal</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541309</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>189669</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Arch/*</installedfile>
+  <id>1541309</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>A minimal Arch Linux Wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541309/8675888c9d0c9cff2412c99ec1695877528eafc1182572d3e94345d3c014ae3ef166.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541309/8675888c9d0c9cff2412c99ec1695877528eafc1182572d3e94345d3c014ae3ef166.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzQ3ODIiLCJvIjoiMSIsInMiOiIyNzY4NTMyYjJhNDQ5MTVjZjdiNGJhMjlkMmMxNzE3YTJmM2FlMjFmZTNjYzNmYWQ2ZWNhYWZmZjAyMDVmZjRhNzIxZGZkMjY0ZmI0MDc0NjkxYTI0NjgwYzkxMzU4OGQ0NTNkNjI3YjFiOTg2ZjQyZjJmYWFkM2Q2YzhmMjk2YSIsInQiOjE3MjYwMjUwNzQsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.gyDeJwnioVkhBnbKwgBsa1q0wYWeN22quoZfCFcCkus/Arch-20210708195131.tar.gz</payload>
+  <tags>artwork,arch,wallpaper,original-product,gplv2-later,kde,linux,minimal,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Magna Wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2102216</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>27196</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Magna-Wallpaper-With-Plasma-Logo.png</installedfile>
+  <id>2102216</id>
+  <releasedate>2023-10-31</releasedate>
+  <summary>Magna Wallpaper with Plasma Logo and without Plasma Logo&lt;br />
+_________________________________________________________&lt;br />
+&lt;br />
+&lt;br />
+Dark Rounded Plasma Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102246/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102248/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2102216/magna-wallpaper-with-plasma-logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2102216/magna-wallpaper-with-plasma-logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTg3NDIzNjMiLCJvIjoiMSIsInMiOiI1NzJhNjZjMmI2NmYzYTg3NzJhMWY2OTMzMjgzOGJjYTBhNzljNjgwNTRmZGNmNWJmZDgzM2EzOWY1OTUzMTdjMzFiOGQxMmI5ZmYyMDM3MGYxYzE5MzFiN2NjMTMwZjcwMTBlZDQ2NjlhY2FjOWE5ODYyNDNhMWIwMzQ0Y2Q4OSIsInQiOjE3MjYwMjUxODUsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.RZHsGJRiKa--xYUmT3-KeQ4FhtgFIU4-98mLmcJ7SP8/Magna-Wallpaper-With-Plasma-Logo.png</payload>
+  <tags>original-product,artwork,gplv3,kde,plasma,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>ArchLinux-Abstact-wallpaper_uy7d</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1705253</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1692</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/ArchLinux-Abstact-wallpaper_uy7d.png</installedfile>
+  <id>1705253</id>
+  <releasedate>2022-02-10</releasedate>
+  <summary>1920 * 1080&lt;br />
+Beautiful, bright wallpaper for your desktop!&lt;br />
+Please leave your comment or rate this wallpaper!&lt;br />
+Thanks everyone</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1705253/archlinux-abstact-wallpaper-uy7d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1705253/archlinux-abstact-wallpaper-uy7d.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQ1MTA3NjkiLCJvIjoiMSIsInMiOiJjZjMzMmNkZjc4N2U5YzRmNmQzNzY5NGQ4MWE0ZTdiOGY5NjY4ZmJkYzg4YjBhZmM1ZjRlYjI1YzVhMDk0OWQ2M2UwZGQ2OWYwMDVjZDZmNzgyZWY5MDkzMTliNjA2YmM4ZjljODRiNDJiMjRjYTExMWMxOWY5YTZiZjAxYWEwMSIsInQiOjE3MjYwMjU4MzIsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.qeTx_3u5NoOdaicx91oomeFr60-1ZcVwp3Bz7bHKg-Y/ArchLinux-Abstact-wallpaper_uy7d.png</payload>
+  <tags>cc0,original-product,wallpaper,tux,artwork,abstract,arch,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Liquid</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541305</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>189436</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/ArchLiquid/*</installedfile>
+  <id>1541305</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>A Liquid themed wallpaper for Arch Linux.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541305/81d1e361a784c8ea5cde873365ebe6a2ea80ef8ff08c3ab51e6734e2c1fb00255c10.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541305/81d1e361a784c8ea5cde873365ebe6a2ea80ef8ff08c3ab51e6734e2c1fb00255c10.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzQ0MjAiLCJvIjoiMSIsInMiOiI3ZWE3MmQwNDliYTZlMDY3MGMwMWEyMzgzYjA5ZjY3NTBlNWE1YzRlNGZiNzU1NmFiMjIzYzJkMTcxOTlmZTkxMDcxYTJlZmNlMGMxZDJjNGQwNzM4YzZlYjAzNzUyOWNkMDBkZWFlZjgwZDRhMzBiOWRlYzkwZjZkYjE0OTEyYyIsInQiOjE3MjYwMjUwNzYsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.pIklBZUG6pIJ7IkPPxTE-NB19TQh4gM6DsrlXAVMQ7Q/ArchLiquid.tar.gz</payload>
+  <tags>arch,artwork,original-product,wallpaper,theme,gplv2-later,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>Arch_Wallpaper_v1.0.1</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1364113</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>726</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Arch_Wallpaper_v1.0.1.png</installedfile>
+  <id>1364113</id>
+  <releasedate>2020-03-03</releasedate>
+  <summary>1920*1080</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1364113/b97707dfd4db24be9249c39fb5cc93d3ec5f.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1364113/b97707dfd4db24be9249c39fb5cc93d3ec5f.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODMyMjA3NzAiLCJvIjoiMSIsInMiOiIwYTI0OTI0NDdkNTUxZGEzYTk1MjMyM2U0ODJiOWIwZWJjMTgxMDJiNDNiMTFjMzU4ODI2NmRjMmFlZmMzZWU1YjhlNWExN2ZkMjZkNGRiNTE5MTYyZDk3YzAwMzM5YzFkMDkyNGE2YzEyNTNmZTQ4NDRiOWFhZmRiODMwNmZlNSIsInQiOjE3MjYwMjU4NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.4XL-b5zKpK-DXjKhO0OVY1NjcBALpIqau1GAi7WihaE/Arch_Wallpaper_v1.0.1.png</payload>
+  <tags>wallpaper,cc0,modification-product,linux,kde,plasma,tux,artwork,arch</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>Arch-wallpaper-Original-linux2</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1479944</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1804</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Arch-wallpaper-Original-2.png</installedfile>
+  <id>1479944</id>
+  <releasedate>2021-02-07</releasedate>
+  <summary>Linux wallpaper arch</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1479944/c147e81fb66e959c9ab63539d55e77f13b8980cf2ed79a63c2beefd038255634052f.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1479944/c147e81fb66e959c9ab63539d55e77f13b8980cf2ed79a63c2beefd038255634052f.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI3NTM3MDEiLCJvIjoiMSIsInMiOiJmYjA1ZTYxZmU0YTI0NWRlYmY4ODNiNmYyZjM2NTA3YTQ2YTZjNWExOGNkZTVmMTZhY2JmNTJhNGNiYzdhMDkwYmNhNmVkMDAwZDZjOTBjNTMxMmMzNDNjZTkxYTU2MDc1NzRiNGUxY2RmYmJlMzc5ODBmMjJjMDgxODgxNTY2NyIsInQiOjE3MjYwMjU4MjMsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.Gyl3AO7b_EcJaxlR-1eE6yNNw63_Yuh1ZC0mNbv9iP8/Arch-wallpaper-Original-2.png</payload>
+  <tags>cc0,linux,original-product,tux,artwork,arch,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Magna-Logo Wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2102214</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>16883</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Magna-Logo-Wallpaper-With-Plasma-Logo.png</installedfile>
+  <id>2102214</id>
+  <releasedate>2023-10-31</releasedate>
+  <summary>Magna-Logo Wallpaper with Plasma Logo and without Plasma Logo&lt;br />
+____________________________________________________________&lt;br />
+&lt;br />
+Dark Rounded Plasma Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Plasma&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102246/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Magna-Dark-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/2102248/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2102214/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2102214/logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTg3NDIxNTgiLCJvIjoiMSIsInMiOiIwYjhjNjVjOWRmOGQ1OGY1NTUwZTJhYzk4MDc1NDQ1NmNhODI2YzRiNzEyMDM2NTJhNzQwNWU3MDdjZGI5MGE3YWM1ZjFiY2RiNDE4ZThiOTFjMjY4NGU5YWZkYTY1NmMyYTViODk0MjI3ZmY2MmQyMGRlNWQ0NWYwZTZjZjZkNSIsInQiOjE3MjYwMjUyMjcsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.HQuVYBVhpZYyLnMfi2bWCzF8RzfwEZ4DOI1wU4yW0-0/Magna-Logo-Wallpaper-With-Plasma-Logo.png</payload>
+  <tags>artwork,plasma,wallpaper,kde,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>anarchy anonymous dark hacker hacking mask sadic vendetta hd</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>nature</author>
+  <homepage>https://store.kde.org/p/1549104</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1819</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/anonymous_mask_sadic_dark_anarchy_hacker_hacking_vendetta_1920x1200.jpg</installedfile>
+  <id>1549104</id>
+  <releasedate>2021-07-04</releasedate>
+  <summary>Resolution  1920 X 1080 FULL HD&lt;br />
+If you interested in more nature please comment and rated us&lt;br />
+Thankyou! </summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/96/86/1549104/867c6d27a594a1fdc9647034fdcf2cc5a261fbd00be9685e84edeb03af4ef43d477c.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/96/86/1549104/867c6d27a594a1fdc9647034fdcf2cc5a261fbd00be9685e84edeb03af4ef43d477c.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjUzODA1MDIiLCJvIjoiMSIsInMiOiI4NTUxMzMyY2ZiNDM0MjhjY2EwZGVhZWVhYmIwYmMyYmYxMWJhOTE2NDY0YjE1NTJiY2U5Yzg0NTIwZDdjZDFlOGFiY2ViZDA5MGVlY2U0NDdjZDZiZDAzZTcwY2ZjNTY3NjQ4MzAxMDViNGY4ZjZhN2RiZmE3MmVmZmJlN2IzZSIsInQiOjE3MjYwMjU4MjIsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.2soFtKKL-RcAnds-oYu-Klc7VWjSrc81htIrC39bOGE/anonymous_mask_sadic_dark_anarchy_hacker_hacking_vendetta_1920x1200.jpg</payload>
+  <tags>hacker,hacking,wallpaper,abstract,artwork,anonymous,anarchy,cc0,dark</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Wings-Wall</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1982061</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>19326</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Wings-Wall-With-Plasma-Logo.jpg</installedfile>
+  <id>1982061</id>
+  <releasedate>2023-02-04</releasedate>
+  <summary>Wings-Wall  (With KDE Plasma Logo and Without  Logo)&lt;br />
+&lt;br />
+Dark Rounded Plasma Theme &lt;span style="color: #489ab1;">Wings-Dark-Plasma&lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1982111/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1982061/logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1982061/logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzU1MDY5MTYiLCJvIjoiMSIsInMiOiJjYzZkM2U1MDZiNmE0NDEzM2NkOTQxNjYzNzkyNzgyOTE3MjhjZmFmNGU3YWI5NjY4NjVmZjMxZTZhMmExMDRjOGY2MDQxOTYxYjc2ZmY2YzljZDkyMmYxMmVkYjRjYWRiMGFhODNlYTljNmRiM2U5MjVkOTA1ZDA0OGY2Y2ZjZCIsInQiOjE3MjYwMjUxNTMsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.LGnOQU1nhVtZGa7t9TZtZBKmWpkyuw1OZg7-HxK9GB0/Wings-Wall-With-Plasma-Logo.jpg</payload>
+  <tags>efi,wallpaper,gplv3,kde,plasma,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Iridescent</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1640884</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>55</rating>
+  <downloads>85371</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Iridescent/*</installedfile>
+  <id>1640884</id>
+  <releasedate>2021-11-12</releasedate>
+  <summary>Arch wallpaper&lt;br />
+Pic Credits : https://unsplash.com/photos/k1bO_VTiZSs</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1640884/ab8424b2b29aa626b047d80cb998969f5d3e3d3bbe51eab86288063488ec9583979c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1640884/ab8424b2b29aa626b047d80cb998969f5d3e3d3bbe51eab86288063488ec9583979c.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY3MzgzODQiLCJvIjoiMSIsInMiOiI2ZDJmNmFiMjc1ODc3YmFjNDU3NTMyYjJkZTg5MTM3NzFjNmM2YzUyMzkxYWNjOTE3YWY0NGQ4OTk4ODI2MDBiNTk5MWRjYjViMDE0MzgyNmY3OGViMmQzYmUyZmJiMGZhMDU1ZDNlNzZjM2ZlZGI1Zjk0YTU2NjA3ZjBkYTllOCIsInQiOjE3MjYwMjUwODMsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.8-pmrMa7cGdcffHyt4Ne1dgCrGWq7I0tpl2MNblqGmE/Iridescent.tar.gz</payload>
+  <tags>gplv3,mac,iridescent,kde,wallpaper,efi,arch,artwork,sweet</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>ArchLinux-wallpaper_uysw6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1724464</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1384</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/ArchLinux_uysw6.png</installedfile>
+  <id>1724464</id>
+  <releasedate>2022-03-04</releasedate>
+  <summary>1920 * 1080&lt;br />
+Beautiful, bright wallpaper for your desktop!&lt;br />
+Please leave your comment or rate this wallpaper!&lt;br />
+Thanks everyone!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1724464/archlinux-uysw6.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1724464/archlinux-uysw6.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDY0MDMxODkiLCJvIjoiMSIsInMiOiJlNTA5ZmY3NDY2ZDJhMmU3NGI0NjgzMzcyMjE4MDU0OTZjYzYxYzlmMjk1YWNmYzc5OGUyNjgzOTJhMTE3ZGVlZGQ2NDBmOTU2OGZmNzYyOTRkMjMzMjVmNzU2M2JmYjhhYmQxZTE4YWRiOTdkZDI4MmFlNTQwNDZiY2JiNTZiNiIsInQiOjE3MjYwMjU4NDQsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.i3z9wF2UPx3h2D19CgqepJN5hkHtTYl0xIlKhCi_8xk/ArchLinux_uysw6.png</payload>
+  <tags>artwork,tux,wallpaper,abstract,arch,linux,cc0,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Vivid  Wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2110165</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>39713</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/Vivid-Wallpaper-With-Plasma-Logo.png</installedfile>
+  <id>2110165</id>
+  <releasedate>2023-11-29</releasedate>
+  <summary> Vivid  Wallpaper with Plasma Logo and without Plasma Logo&lt;br />
+________________________&lt;br />
+&lt;br />
+Dark Rounded Plasma Theme, Transparent and Blur, &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Plasma&lt;/strong> &lt;/span>, which you can download:  &lt;a href="https://www.pling.com/p/2110196/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Dark Rounded Global Theme, Transparent and Blur,  &lt;span style="color: #008b8b;"> &lt;strong>Vivid-Dark-Global&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/2110198/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2110165/vivid-wallpaper-with-plasma-logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2110165/vivid-wallpaper-with-plasma-logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDEyNzAwMzgiLCJvIjoiMSIsInMiOiI5NmQzMDVkMDk4YzZmNWQzNDA2YWViOTliZjViZjdjNzM3YmIyY2YwNmEwZTJkMTIxMDAwNTRiYTY4Njk4NTViZGIxMGRkMDZhZDBhNDlkZDc5ZTZlODg0NTlkNTU3YTA3ZGM3NDhmOGRkZmVkY2I2MWZhMjU1ZTY1MjMxNGQ2NSIsInQiOjE3MjYwMjUxODIsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.sgq7c-jTjrcxK-8sXvPE1r4hkU7x5UwbAN9d-eHaAEo/Vivid-Wallpaper-With-Plasma-Logo.png</payload>
+  <tags>wallpaper,artwork,plasma,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="296">
+  <name>Smooth Archlinux</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>chilinik</author>
+  <homepage>https://store.kde.org/p/1284766</homepage>
+  <licence></licence>
+  <version>0.01</version>
+  <rating>50</rating>
+  <downloads>5328</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/MWhOeG-1920x1080/*</installedfile>
+  <id>1284766</id>
+  <releasedate>2019-01-11</releasedate>
+  <summary>Fresh and smooth Archlinux wallpapers&lt;br />
+&lt;br />
+Colors&lt;br />
+#4d4d4d&lt;br />
+#041726&lt;br />
+&lt;br />
+Sizes&lt;br />
+1. 1920x1080px&lt;br />
+2. 7680x4320px&lt;br />
+&lt;br />
+Enjoy</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/07/03/12/1284766/f76f61ceeff6effd64d781730ba95e958253.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/07/03/12/1284766/f76f61ceeff6effd64d781730ba95e958253.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NDcyNTUwMDMiLCJvIjoiMSIsInMiOiJmMDIwMmQ2OTA2NDMzZjc1NDI3ZGRiNjhhZGViY2E2ODJjMmE0MDQxMDNiYzk5OGE4ZjM1YzhmNzg3MWI0Mjc5NDFmNDg1YzVkNDA0ZDQ0NTRlZjlhYTQ2N2Y1NWU3OTM3NjEzMzMwMThjYjkxYzU3ZWMwN2RiMDhhMTI1NzRmNSIsInQiOjE3MjYwMjU3OTQsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.I5SDOPAbhZgWhEZziIhllW1oYkaAyDD6tUhYZn7-Bpg/1920x1080.zip</payload>
+  <tags>cc-by,artwork,archlinux,abstract,wallpapers,wallpaper,minimalistic,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>ArchLinux_Wallpaper19_ku7</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1440494</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>4793</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/ArchLinux_Wallpaper19_ku7.png</installedfile>
+  <id>1440494</id>
+  <releasedate>2020-11-01</releasedate>
+  <summary>1920*1080&lt;br />
+Wallpaper Linux.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1440494/d7f1f87deb1deac6f9f7b330a376dfa0433633cfd7648078168b5f210dc4b3a8df40.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1440494/d7f1f87deb1deac6f9f7b330a376dfa0433633cfd7648078168b5f210dc4b3a8df40.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDQyMDc4MjAiLCJvIjoiMSIsInMiOiIyZDkwMDE3MTljZTMwOTUyZTNiZjc4ZTdiM2IzNjAxMjNiMTUwNDFhODRjMzhkZWExMmIyYTk0NzU1NmIxYWExN2E0YWM3ZWNhOGQ1ZTExMGQ0ODkwM2E1ZDMwMDQxNzAxOGM1Mjk3NzI2ZDc3ZmFlZGJhZDhmYTIyN2M1YTY3MCIsInQiOjE3MjYwMjU3OTcsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.ueD9hdrUB75dZg_L50D579bIqPR1Zf6g5naJbi6jYGE/ArchLinux_Wallpaper19_ku7.png</payload>
+  <tags>tux,artwork,cc0,linux,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Grass</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541302</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>195434</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/ArchGrass/*</installedfile>
+  <id>1541302</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>A Simple Grass Icon Arch Wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541302/840b95d864d487cadf7cc4948ea798610cabc03859af59c7b6acd79609a4fdbd962e.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541302/840b95d864d487cadf7cc4948ea798610cabc03859af59c7b6acd79609a4fdbd962e.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzM3MDUiLCJvIjoiMSIsInMiOiIwMDI2YWEyNjcwOGI1MjliOWNmM2NkM2ZjNDVlMzI2YWRjMzMzMGVlMmQyMzQ0MTIzNTE0ZjVhOTQwODc3Y2RiMzVmYzI5Mjk5NzkyOTFmOTRlOTUyNzk1ZDYwNDg2ODc2ZmM5ZGZkYjA1OTE5ZmZmODNlMzEzMmVlM2FiZDQ3MSIsInQiOjE3MjYwMjUwODEsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.PTZLGs5olKAXoYNsRyIoqgUue4NvoG4l-YXIj1htVrk/ArchGrass.tar.gz</payload>
+  <tags>arch,artwork,gplv2-later,wallpaper,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="360">
+  <name>arch-abstract_jyt5</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1634434</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1110</downloads>
+  <installedfile>/home/ben/.local/share/wallpapers/arch-abstract_jyt5.jpg</installedfile>
+  <id>1634434</id>
+  <releasedate>2021-11-05</releasedate>
+  <summary>1920*1080&lt;br />
+Abstract ArchLinux</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1634434/c0c832dfec490115d7490cf6c5bb06eff28445965af44092949e5f8c32a0ac5daf6e.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1634434/c0c832dfec490115d7490cf6c5bb06eff28445965af44092949e5f8c32a0ac5daf6e.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzYxMDIyNTgiLCJvIjoiMSIsInMiOiIwYTVlYjdhMmQ2OWVlYTZiMDc1NDQ1ZjdmZDExMDVhYTJjODhhNzAwZTEzYzczNzczMTU1NWFkMGE5MzI1YjEzZDc2OGJlMDYzNmQ1OTc1OGZiMjM2YWRiOWQ1ZjNkNWRhZDVlN2I4NTYwNDk0NmUxZmVmNWUzNzU0NzgwZjRhNyIsInQiOjE3MjYwMjU4NTYsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuNTcuNzIuMTE5In0.MXGm7r27k3LOn6w6T5mJLmCEyXEQaHbD4yyxVpYBBiI/arch-abstract_jyt5.jpg</payload>
+  <tags>tux,cc0,original-product,artwork,abstract,arch,wallpaper,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
