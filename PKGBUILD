@@ -1,4 +1,4 @@
-pkgname=stormos-xfce-config
+pkgname=stormos-vida-config
 _destname1="/etc"
 pkgver=24.08
 pkgrel=1
