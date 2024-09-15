@@ -1,6 +1,6 @@
 pkgname=stormos-vida-config
 _destname1="/etc"
-pkgver=24.08
+pkgver=1
 pkgrel=1
 pkgdesc="Desktop Config for StormOS"
 arch=('any')
