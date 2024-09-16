@@ -22,9 +22,9 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][174][Wallpaper][org.kde.image][General]
-Image=/home/ben/Downloads/walls/Vida-6.png
-PreviewImage=/home/ben/Downloads/walls/Vida-6.png
-SlidePaths=/home/ben/.local/share/wallpapers/,/usr/share/wallpapers/
+Image=/usr/share/wallpapers/Vida-6.png
+PreviewImage=/usr/share/wallpapers/Vida-6.png
+SlidePaths=/usr/share/wallpapers/
 
 [Containments][175]
 activityId=
