@@ -133,15 +133,15 @@ ForegroundPositive=113,247,159
 ForegroundVisited=179,13,191
 
 [General]
-ColorScheme=Breeze-Dark
+ColorScheme=Breeze
 ColorSchemeHash=6d8d52469df94cc34e53504f564839b62461c506
 
 [Icons]
-Theme=Breeze-Dark
+Theme=Breeze
 
 [KDE]
 AnimationDurationFactor=0.25
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=org.kde.breeze.desktop
 ShowDeleteCommand=true
 
 [KFileDialog Settings]
