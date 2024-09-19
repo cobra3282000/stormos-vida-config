@@ -1,8 +1,8 @@
 [General]
-ColorScheme=IridescentLightly3
+ColorScheme=Breeze-Dark
 
 [Icons]
-Theme=Vivid-Dark-Icons
+Theme=Breeze-Dark
 
 [KDE]
 widgetStyle=Breeze
